@@ -1,0 +1,71 @@
+
+### Basics of GraphQL
+
+1. What is GraphQL?
+2. How does GraphQL differ from RESTful APIs?
+3. Explain the main components of a GraphQL schema.
+4. What are the advantages of using GraphQL over traditional REST APIs?
+5. What is a resolver in GraphQL?
+6. Describe the structure of a GraphQL query.
+7. How does GraphQL handle versioning of APIs?
+8. Explain the role of a GraphQL mutation.
+9. What is the significance of a GraphQL subscription?
+10. How does GraphQL handle over-fetching and under-fetching of data?
+
+### GraphQL Schema
+
+11. What is SDL (Schema Definition Language) in GraphQL?
+12. How do you define a type in a GraphQL schema?
+13. Explain the purpose of scalar types in GraphQL.
+14. How are custom types defined in a GraphQL schema?
+15. What is the difference between input and output types in GraphQL?
+
+### GraphQL Queries and Mutations
+
+16. How do you perform a basic query in GraphQL?
+17. Explain the concept of aliases in GraphQL queries.
+18. What are fragments in GraphQL and how do you use them?
+19. How do you pass arguments to a GraphQL query?
+20. What is a GraphQL mutation and how is it different from a query?
+21. Describe the syntax for performing mutations in GraphQL.
+22. How does GraphQL handle errors in mutations?
+23. What are inline fragments in GraphQL?
+
+### GraphQL Resolvers
+
+24. What is a resolver function?
+25. How are resolver functions connected to the schema?
+26. Explain the concept of resolver chaining.
+27. How does GraphQL resolve circular dependencies?
+28. What is the purpose of the `context` object in resolver functions?
+
+### Advanced GraphQL Concepts
+
+29. What are GraphQL directives and how are they used?
+30. Explain the concept of introspection in GraphQL.
+31. How does caching work with GraphQL?
+32. Describe the role of DataLoader in optimizing GraphQL queries.
+33. What are union types and when are they used in GraphQL?
+34. How do you handle file uploads in GraphQL?
+35. Explain the concept of subscriptions in GraphQL and how they work.
+
+### GraphQL Best Practices
+
+36. What are some best practices for designing a GraphQL schema?
+37. How do you handle security concerns in GraphQL APIs?
+38. Describe strategies for optimizing GraphQL query performance.
+39. What tools can be used for testing GraphQL APIs?
+40. How do you handle authentication and authorization in GraphQL?
+41. How can you enforce data validation in GraphQL?
+
+### GraphQL Implementations and Ecosystem
+
+42. What are some popular GraphQL client libraries?
+43. Describe the differences between Apollo Client and Relay.
+44. How do you integrate GraphQL with existing frameworks like Express or Django?
+45. Explain the role of GraphQL in a microservices architecture.
+46. What are some challenges when migrating from REST to GraphQL?
+47. How does GraphQL work with serverless architectures?
+48. Describe the role of schema stitching in GraphQL.
+49. What is the role of Apollo Federation?
+50. How can you monitor and analyze performance of GraphQL APIs?

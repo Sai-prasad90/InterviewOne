@@ -1,0 +1,41 @@
+1. **What is a Prompt?**
+   
+2. **What is Prompt Engineering?**
+   
+3. **What Does a Prompt Engineer Do?**
+   
+4. **What inspired you to become a prompt engineer?**
+   
+5. **What are the key skills that a prompt engineer should possess?**
+   
+6. **What is Predictive Modeling?**
+   
+7. **What is a Generative AI Model?**
+   
+8. **How does a Generative AI Model work?**
+   
+9. **What are the advantages of Generative AI Models?**
+   
+10. **What are the main applications of Generative AI Models?**
+    
+11. **What are the challenges of Generative AI Models?**
+    
+12. **What will be the future developments in Generative AI?**
+    
+13. **What is the difference between Discriminative vs Generative Modeling?**
+    
+14. **What are language models?**
+    
+15. **Which is the best generative AI tool?**
+    
+16. **What is Zero-Shot Prompting?**
+    
+17. **How does Zero-Shot Prompting work?**
+    
+18. **What are real-world applications for generative AI?**
+    
+19. **How Can Businesses Use Generative AI Tools?**
+
+
+
+
