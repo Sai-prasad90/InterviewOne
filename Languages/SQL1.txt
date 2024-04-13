@@ -1,0 +1,53 @@
+SQL Interview Questions - Easy Questions
+1. What is SQL?
+2. What is DBMS?
+3. What is RDBMS?
+4. Why do we use SQL constraints? Which constraints can we use while creating a database in SQL?
+5. How many Aggregate Functions are available in SQL?
+6. What is the difference between “Primary Key” and “Unique Key”?
+7. What is ISNULL() operator?
+8. What is normalization?
+9. What are different JOINS used in SQL?
+10. What is an Index? What are the different types of indexes?
+11. What is referential integrity?
+12. What is a Cursor?
+13. How to change the Database name in SQL server?
+14. What is an execution plan? When would you use it? How would you view the execution plan?
+15. What is a Trigger?
+16. What is CHECK Constraint?
+17. What is SQL View?
+18. Write SQL Query to display the current date.
+19. Write SQL Query to find an employee whose salary is equal to or greater than 10000.
+20. What is the SELECT statement?
+21. What is Denormalization?
+22. What is the difference between DROP and TRUNCATE statements?
+23. What is the difference between DELETE and TRUNCATE statements?
+24. What do you mean by data integrity?
+25. What is a Stored Procedure?
+26. What is a primary key?
+27. What is a foreign key?
+28. What is the ACID property in a database?
+29. Explain the difference between OLTP and OLAP.
+30. What is Cursor? How to use a Cursor?
+
+SQL Interview Questions - Hard Questions
+31. What are all the different normalizations?
+32. How to implement one-to-one, one-to-many, and many-to-many relationships while designing tables?
+33. How to read TOP 5 records from a table using a SQL query?
+34. How to read LAST 5 records from a table using a SQL query?
+35. How to find the employee with the second MAX Salary using a SQL query?
+36. What is lock escalation?
+37. What is a Composite Primary Key?
+38. What are user-defined data types and when should you go for them?
+39. Explain different isolation levels.
+40. Explain Active/Active and Active/Passive cluster configurations.
+41. What is a table called if it has neither Cluster nor Non-cluster Index? What is it used for?
+42. What is a Scheduled Job or Scheduled Task?
+43. How to get @@ERROR and @@ROWCOUNT at the same time?
+44. What is a Unique Key?
+45. What are Entities and Relationships?
+46. What do you know about the STUFF() function?
+47. What is a stored procedure? Give an example.
+48. Explain the difference between Union and Union All operators.
+49. What is the use of the Intersect operator?
+50. From the given trips and users tables for a taxi service, write a query to return the cancellation rate in the first two days in October, rounded to two decimal places, for trips not involving banned riders or drivers. (From LeetCode).

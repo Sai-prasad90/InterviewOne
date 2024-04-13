@@ -1,0 +1,126 @@
+Web Development 
+
+### HTML/CSS
+1. What are semantic HTML tags?
+2. Explain the box model in CSS.
+3. What is the difference between `display: block`, `display: inline`, and `display: inline-block`?
+4. Describe CSS specificity and how it is calculated.
+5. How can you center align a block element horizontally and vertically in CSS?
+6. What are media queries and how are they used in responsive design?
+7. Explain the difference between `==` and `===` in JavaScript comparison operators.
+8. What are CSS preprocessors? Name a few.
+9. What is the purpose of clearfix in CSS?
+10. What are CSS frameworks? Give examples.
+
+### JavaScript
+11. Explain event bubbling and event delegation in JavaScript.
+12. What are closures in JavaScript?
+13. What is the difference between `var`, `let`, and `const` in JavaScript?
+14. Explain asynchronous programming in JavaScript.
+15. What is the DOM (Document Object Model)?
+16. What is the difference between `null` and `undefined` in JavaScript?
+17. How does prototypal inheritance work in JavaScript?
+18. Explain what is meant by "hoisting" in JavaScript.
+19. What is a promise in JavaScript?
+20. How does `async/await` work in JavaScript?
+
+### Front-End Frameworks (e.g., React, Angular, Vue)
+21. What is virtual DOM in React?
+22. Explain the component lifecycle methods in React.
+23. What is state management in front-end frameworks?
+24. What are props in React?
+25. What are Angular directives?
+26. Describe two-way data binding in Angular.
+27. What is a Vue.js mixin?
+28. What are the key differences between React and Angular?
+
+### Back-End Technologies
+29. Explain the difference between server-side scripting and client-side scripting.
+30. What is Node.js? How is it different from JavaScript in the browser?
+31. What is RESTful API? Explain its principles.
+32. What is Express.js?
+33. What are middleware functions in Express?
+34. How does authentication work in web applications?
+35. Explain the concept of sessions and cookies.
+36. What are SQL and NoSQL databases? Give examples of each.
+37. What is ORM (Object-Relational Mapping)?
+
+### Database Concepts
+38. What is normalization and denormalization in databases?
+39. Explain the differences between primary key, foreign key, and candidate key.
+40. What are indexes in databases?
+41. Describe ACID properties in database transactions.
+42. What is the difference between SQL and NoSQL databases?
+43. What is a JOIN in SQL? Explain different types of JOINs.
+44. What is database indexing? Why is it important?
+
+### Version Control
+45. What is Git? Explain its importance in version control.
+46. What are branches in Git? How do you merge them?
+47. What is a Git conflict? How do you resolve it?
+48. What is the difference between Git rebase and Git merge?
+49. Explain the concept of Git workflows (e.g., Gitflow).
+
+### Software Development Concepts
+50. What is MVC (Model-View-Controller) architecture?
+51. Describe agile software development methodology.
+52. What is the difference between unit testing and integration testing?
+53. What is continuous integration (CI) and continuous deployment (CD)?
+54. Explain the SOLID principles of object-oriented design.
+55. What is the DRY principle in software development?
+56. Describe the difference between functional programming and object-oriented programming.
+57. What is containerization? Explain Docker.
+
+### Problem-Solving and Algorithms
+58. Explain Big O notation and its importance in algorithm analysis.
+59. What are data structures? Give examples.
+60. Describe different sorting algorithms and their efficiency.
+61. What is recursion? Provide an example.
+62. Explain the difference between breadth-first search (BFS) and depth-first search (DFS).
+63. What is memoization?
+64. How would you handle CORS (Cross-Origin Resource Sharing) in a web application?
+65. Describe CSRF (Cross-Site Request Forgery) and how to prevent it.
+
+### General Questions
+66. Describe your development workflow.
+67. How do you stay updated with the latest web development trends?
+68. Describe a recent project you worked on. What were the challenges and how did you overcome them?
+69. How do you handle browser compatibility issues in web development?
+70. What tools do you use for debugging and profiling your code?
+71. How would you optimize the performance of a web application?
+72. Explain the difference between web scalability and web performance.
+73. How do you ensure the security of a web application?
+74. What are the key considerations for designing a RESTful API?
+75. Describe the difference between cookies and local storage in the context of web browsers.
+
+### Behavioral Questions
+76. How do you prioritize tasks when working on multiple projects?
+77. Describe a situation where you had to work under pressure to meet a tight deadline.
+78. How do you handle conflicts or disagreements with team members?
+79. Describe a challenging technical problem you faced and how you solved it.
+80. How do you approach learning a new technology or programming language?
+
+### Coding Exercises
+81. Implement a function to reverse a string in JavaScript.
+82. Write a SQL query to fetch data from multiple tables using JOIN.
+83. Implement a RESTful API endpoint using Node.js and Express.
+84. Solve a simple algorithmic problem (e.g., finding the factorial of a number).
+85. Explain how you would use React to build a basic todo list application.
+
+### Additional Questions
+86. What are WebSockets? How are they different from HTTP?
+87. How would you implement authentication using JSON Web Tokens (JWT)?
+88. What is server-side rendering (SSR) in the context of front-end frameworks?
+89. Explain the concept of microservices architecture.
+90. How would you handle state management in a large-scale React application?
+91. Describe the differences between optimistic and pessimistic concurrency control.
+92. What are the advantages of using NoSQL databases over SQL databases?
+93. How would you improve the performance of a slow-loading web page?
+94. Explain the concept of XSS (Cross-Site Scripting) and how to prevent it.
+95. What is the purpose of a CDN (Content Delivery Network) in web development?
+96. How would you deploy a web application to a cloud platform like AWS or Heroku?
+97. Describe the difference between web sockets and AJAX.
+98. What are the benefits of using a framework like Bootstrap in web development?
+99. How do you handle SEO (Search Engine Optimization) for a web application?
+100. What are your career goals as a full-stack web developer?
+

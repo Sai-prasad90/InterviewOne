@@ -1,0 +1,33 @@
+
+CSS INTERVIEW QUESTIONS
+1. What is CSS?
+2. Explain the different ways to include CSS in a web page.
+3. Describe the difference between inline, internal, and external CSS.
+4. What is the box model in CSS?
+5. How can you select elements in CSS? Describe different types of selectors.
+6. What is the difference between `padding` and `margin` in CSS?
+7. How can you center an element horizontally and vertically using CSS?
+8. Describe the difference between `display: block;`, `display: inline;`, and `display: inline-block;`.
+9. What are pseudo-classes in CSS? Provide examples.
+10. Explain the concept of specificity in CSS.
+11. What is the difference between `position: relative;`, `position: absolute;`, and `position: fixed;`?
+12. How can you create a CSS gradient?
+13. What is Flexbox? Describe some of its key properties.
+14. Explain the difference between `em` and `rem` units in CSS.
+15. How do media queries work in CSS? Why are they used?
+16. What are vendor prefixes in CSS? Why are they used?
+17. How can you create animations in CSS?
+18. Describe the difference between `overflow: hidden;`, `overflow: auto;`, and `overflow: scroll;`.
+19. What is the purpose of the `z-index` property in CSS?
+20. How can you make a responsive design using CSS?
+21. What are the advantages of using CSS preprocessors like Sass or Less?
+22. Describe the difference between `box-sizing: content-box;` and `box-sizing: border-box;`.
+23. How can you target specific browsers or browser versions using CSS?
+24. Explain the concept of CSS sprites.
+25. What are the differences between `inline` and `inline-block` elements in CSS?
+26. How can you style links differently based on their state (e.g., hover, visited)?
+27. What is the `clearfix` hack in CSS? When would you use it?
+28. Describe the difference between `translate()` and `transform()` in CSS.
+29. How can you use CSS variables (custom properties) in your stylesheets?
+30. What are some best practices for writing efficient and maintainable CSS?
+

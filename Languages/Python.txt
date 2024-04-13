@@ -1,0 +1,110 @@
+
+Python Interview questions
+
+
+### Python Basics:
+
+**For Freshers:**
+1. What is Python and why is it popular?
+2. Explain PEP 8 and why it's important in Python coding.
+3. Describe how Python manages memory.
+4. What are namespaces and how are they used in Python?
+5. What are the differences between lists and tuples in Python?
+6. Explain the difference between `==` and `is` operators.
+7. How can you comment out multiple lines in Python?
+8. Discuss the purpose of `__init__.py` in Python packages.
+9. What are the main differences between Python 2 and Python 3?
+10. How is the `with` statement used in Python?
+
+**For Experienced:**
+1. How would you describe Python's key features?
+2. How do you ensure your Python code follows PEP 8 guidelines?
+3. Can you explain Python's garbage collection mechanism in detail?
+4. How do namespaces and scopes contribute to Python's flexibility?
+5. When would you choose a list over a tuple and vice versa?
+6. What are the nuances between using `==` and `is` in Python comparisons?
+7. Share methods to comment out multiple lines of code efficiently.
+8. Why is `__init__.py` necessary in Python packages?
+9. What notable changes were introduced in Python 3 compared to Python 2?
+10. How have you used the `with` statement in your projects?
+
+
+### Data Types and Structures:
+
+**For Freshers:**
+1. What are the basic data types available in Python?
+2. Explain sets and dictionaries in Python with examples.
+3. How do you check if a key exists in a dictionary?
+4. What are generator expressions and how do you use them?
+5. Compare list and dictionary comprehensions.
+6. Describe the differences between a list and a set in Python.
+7. What is the purpose of the `collections` module in Python?
+8. How does `defaultdict` differ from a regular dictionary?
+9. How can you reverse a list in Python?
+10. What's the difference between `append()` and `extend()` methods?
+
+**For Experienced:**
+1. How would you describe Python's built-in data types and when to use each?
+2. Can you elaborate on the applications of sets and dictionaries in Python?
+3. Share efficient ways to check for key existence in a dictionary.
+4. When would you use generator expressions over list comprehensions?
+5. Provide examples of advanced list and dictionary comprehensions.
+6. Discuss performance considerations between lists and sets for large datasets.
+7. How have you leveraged the `collections` module in your projects?
+8. Explain scenarios where `defaultdict` is preferable to a standard dictionary.
+9. How do you efficiently reverse a large list in Python?
+10. Share your experiences with using `append()` and `extend()` methods in real-world projects.
+
+
+### Control Flow and Looping:
+
+**For Freshers:**
+1. How do if-else statements work in Python?
+2. Explain the purpose of the `elif` statement.
+3. How is the `for` loop used in Python?
+4. Describe the functionality of the `while` loop.
+5. What are `break` and `continue` statements used for?
+6. How do you iterate over keys and values in a dictionary?
+7. Explain the `range()` function and how it's used.
+8. How can list comprehensions simplify loop constructs?
+9. What is a ternary operator and how is it applied in Python?
+
+**For Experienced:**
+1. Can you discuss nuanced uses of if-else constructs in Python applications?
+2. Share examples of complex conditions involving `elif` statements.
+3. How have you optimized `for` loops in performance-critical sections?
+4. Explain scenarios where a `while` loop is preferable over a `for` loop.
+5. Share strategies for using `break` and `continue` effectively in loops.
+6. How do you efficiently iterate over large dictionaries in Python?
+7. Discuss advanced use cases for the `range()` function beyond simple loops.
+8. Provide examples of sophisticated list comprehensions in your codebase.
+9. How have you applied the ternary operator to write concise and readable code?
+
+
+### Functions and Modules:
+
+**For Freshers:**
+1. What is a function and how is it defined in Python?
+2. Explain the different types of function arguments.
+3. What is a lambda function and when would you use it?
+4. How do you call a function in Python?
+5. Define what a module is in Python.
+6. How do you import modules into your Python code?
+7. What is a namespace in Python?
+8. Explain the differences between import methods in Python.
+9. Define a Python package and describe its purpose.
+10. How do you create and structure a Python package?
+
+**For Experienced:**
+1. Share your experience in designing and implementing complex Python functions.
+2. Discuss advanced concepts like default arguments and variable-length arguments in functions.
+3. When have you utilized lambda functions to simplify your code?
+4. How do you manage and optimize function calls in performance-critical applications?
+5. Explain strategies for modularizing large Python projects using custom modules.
+6. How do you handle module dependencies and circular imports in Python?
+7. Describe scenarios where careful namespace management has been critical.
+8. Compare and contrast different module import techniques in Python projects.
+9. How have you structured Python packages to enhance code organization and reusability?
+10. Share best practices for designing and structuring Python packages for scalability.
+
+

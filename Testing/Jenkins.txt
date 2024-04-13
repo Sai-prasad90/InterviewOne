@@ -1,0 +1,57 @@
+Jenkins for interview 
+### Basic Jenkins Concepts
+1. What is Jenkins? Explain its key features.
+2. How is Jenkins different from other continuous integration tools?
+3. What are the benefits of using Jenkins?
+
+### Jenkins Installation and Configuration
+4. Explain the steps to install Jenkins.
+5. How do you configure Jenkins after installation?
+6. What is Jenkins Home directory? Where can you find it?
+
+### Jenkins Jobs
+7. What is a Jenkins job?
+8. Differentiate between Freestyle and Pipeline jobs in Jenkins.
+9. How do you create a new Jenkins job?
+
+### Jenkins Plugins
+10. What are Jenkins plugins? How do you install a plugin in Jenkins?
+11. Mention a few commonly used Jenkins plugins and their purposes.
+
+### Jenkins Build Process
+12. Explain the Jenkins build process.
+13. What is a build pipeline in Jenkins?
+
+### Jenkins Pipelines
+14. What is a Jenkins pipeline?
+15. What are the advantages of Jenkins pipeline?
+
+### Jenkins SCM Integration
+16. How does Jenkins integrate with version control systems?
+17. Which version control systems does Jenkins support?
+
+### Jenkins Security
+18. How do you secure Jenkins?
+19. What are Jenkins security realms and authorization strategies?
+
+### Jenkins Monitoring and Notifications
+20. How can you monitor Jenkins?
+21. Explain Jenkins notification system.
+
+### Jenkins Distributed Builds
+22. What are distributed builds in Jenkins?
+23. How do you configure a Jenkins master-slave setup?
+
+### Jenkins Troubleshooting
+24. How do you troubleshoot Jenkins build failures?
+25. What are some common Jenkins errors you've encountered?
+
+### Jenkins Best Practices
+26. What are some best practices for using Jenkins?
+27. How do you optimize Jenkins performance?
+
+### Jenkins Integration with Other Tools
+28. How does Jenkins integrate with Docker?
+29. Explain Jenkins integration with Kubernetes.
+30. Can Jenkins be used for deployment? If yes, how?
+

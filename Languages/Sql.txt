@@ -1,0 +1,53 @@
+SQL QUESTIONS
+
+1. What is the full form of SQL?
+2. How can you retrieve all records from a table?
+3. Define a "join" in SQL.
+4. What types of joins are commonly used in SQL? Provide examples.
+5. How do you insert a new record into a table?
+6. Explain how to add a new column to an existing table in SQL.
+7. How do you update the value of a specific field in a table?
+8. What is the purpose of the SQL COMMIT statement?
+9. Define a primary key in SQL.
+10. What are foreign keys, and how are they used in SQL?
+11. What is the primary role of a primary key in a database table?
+12. Can a table have multiple foreign keys defined?
+13. List the possible values that can be stored in a BOOLEAN field in SQL.
+14. What is the maximum value that can be stored in a BYTE field?
+15. How many decimal places can be stored in a CURRENCY field?
+16. Describe a stored procedure in SQL.
+17. Explain how NULL values work in SQL.
+18. Define "Normalization" in the context of databases.
+19. What are referential integrity constraints in SQL?
+20. Define a "Trigger" in SQL.
+21. Which WHERE clause will only return rows with names starting with 'A'?
+22. What names will be returned by the query `SELECT FirstName FROM StaffList WHERE FirstName LIKE '_A%'`?
+23. Write a SQL query to fetch each city only once from the Students table. Is ordering necessary?
+24. Provide an example of SQL concatenation operator usage.
+25. How do you rename a column in a SQL SELECT query?
+26. Give an example of limiting rows returned using a WHERE clause in SQL.
+27. Write a SQL query to display the first name, last name, salary, and assign a row number to each instructor.
+28. Which SQL functions are exclusive to numeric values?
+29. What function removes trailing spaces from a character value in a CHAR datatype column?
+30. Which statement removes spaces between the month and day in the date format 'Month, DD, YYYY'?
+31. Must the WHERE clause always precede the GROUP BY clause in a SQL SELECT statement?
+32. Explain how Oracle executes statements with nested subqueries.
+33. Which operator is used to return all rows from one query except those returned by another query?
+34. How do you create a column alias in Oracle 8i?
+35. Identify Data Manipulation Language (DML) commands among the following statements.
+36. What is Oracle locking?
+37. Name some Oracle lock modes.
+38. Define query optimization in SQL.
+39. List the main components of Database Management System (DBMS) software.
+40. Describe the main attributes of a DBMS.
+41. Define a "transaction" in the context of databases.
+42. Name some popular database management systems.
+43. Explain the usage of the SQL SELECT statement with an example.
+44. Describe some commonly used Conversion Functions in SQL.
+45. Describe some Group Functions used in SQL.
+46. What is the meaning of DML in SQL?
+47. What does DDL stand for in SQL?
+48. Define DCL in the context of SQL.
+49. Describe SQL comments and their usage.
+50. Explain the sequence in which SQL statements are processed.
+51. Explain the purpose and usage of the TO_DATE function in SQL.

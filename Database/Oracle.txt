@@ -1,0 +1,74 @@
+
+### Oracle Database Interview Questions:
+
+1. **What are the different types of indexes in Oracle?**
+2. **Explain the difference between DELETE and TRUNCATE commands.**
+3. **What is a database transaction? Explain ACID properties.**
+4. **How do you optimize SQL queries in Oracle?**
+5. **What is a primary key and foreign key?**
+6. **Describe the purpose of the Oracle Data Dictionary.**
+7. **What are the different types of joins in Oracle?**
+8. **Explain the role of the redo log in Oracle.**
+9. **How do you perform backup and recovery in Oracle?**
+10. **Discuss the differences between UNION and UNION ALL in SQL.**
+
+### Oracle PL/SQL Interview Questions:
+
+1. **What is PL/SQL? How is it different from SQL?**
+2. **Explain the difference between a function and a stored procedure in PL/SQL.**
+3. **How do you handle exceptions in PL/SQL?**
+4. **What are cursors in Oracle? Explain different types of cursors.**
+5. **Discuss the benefits of using PL/SQL.**
+6. **What is a trigger? How and when would you use it in Oracle?**
+7. **Explain bulk binding and its benefits in PL/SQL.**
+8. **How do you optimize PL/SQL performance?**
+9. **What are packages in Oracle? How do they help in organizing code?**
+10. **How do you pass parameters to a PL/SQL procedure?**
+
+### Oracle Architecture and Performance Tuning Interview Questions:
+
+1. **Explain the components of Oracle architecture.**
+2. **How do you identify and troubleshoot performance issues in Oracle?**
+3. **Discuss the importance of indexes and how they impact performance.**
+4. **What is Oracle Real Application Clusters (RAC)?**
+5. **How does query optimization work in Oracle?**
+6. **What tools do you use for monitoring and managing Oracle databases?**
+7. **Explain the concept of table partitioning and its benefits.**
+8. **How do you use Explain Plan to optimize SQL queries?**
+9. **What is the role of the PGA (Program Global Area) and SGA (System Global Area) in Oracle?**
+10. **Describe Oracle flashback technology and its uses.**
+
+### Oracle Interview Questions for Developers:
+
+1. **What are the different types of triggers available in Oracle?**
+2. **How do you use sequences in Oracle?**
+3. **Explain how you would implement pagination in Oracle SQL.**
+4. **What are analytic functions in Oracle? Provide examples.**
+5. **Discuss the importance of bind variables in Oracle SQL.**
+6. **How do you handle large datasets efficiently in Oracle?**
+7. **What are the different types of constraints in Oracle?**
+8. **Explain the difference between VARCHAR and VARCHAR2 in Oracle.**
+9. **How do you use subqueries in Oracle SQL?**
+10. **Discuss the benefits and use cases of materialized views.**
+
+### Oracle Interview Questions for Administrators:
+
+1. **How do you monitor and manage tablespaces in Oracle?**
+2. **What is the Oracle Automatic Storage Management (ASM) feature?**
+3. **Explain the steps involved in applying Oracle patches and upgrades.**
+4. **How do you configure and manage Oracle backups using RMAN?**
+5. **Discuss the concept of Oracle Data Guard and its uses.**
+6. **What are the different types of redo log files in Oracle?**
+7. **Explain the concept of Oracle Flashback and how it works.**
+8. **How would you handle a database crash and recovery situation?**
+9. **Discuss the role of the listener in Oracle networking.**
+10. **How do you configure and manage Oracle database security?**
+
+### General Oracle Interview Questions:
+
+1. **What are the different types of SQL commands in Oracle?**
+2. **Explain the difference between a view and a materialized view.**
+3. **How do you implement row-level security in Oracle?**
+4. **Discuss the role of tablespaces and data files in Oracle.**
+5. **How does Oracle manage transactions and locks?**
+   

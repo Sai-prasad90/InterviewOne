@@ -1,0 +1,92 @@
+Basic Concepts:
+1.	What is React? Explain its features and advantages.
+2.	How does React differ from other JavaScript frameworks?
+3.	What is JSX? Why is it used in React?
+4.	Explain the virtual DOM and its significance in React.
+5.	What are components in React?
+6.	Differentiate between functional components and class components.
+7.	What are props in React? How do you pass data with props?
+8.	Explain state in React. How is it different from props?
+9.	What are React hooks? Name a few built-in hooks and explain their purpose.
+10.	How would you optimize performance in a React application?
+Component Lifecycle:
+11.	Explain the lifecycle methods of a class component.
+12.	What are the phases of a component’s lifecycle?
+13.	Describe the significance of componentDidMount() and componentWillUnmount().
+14.	How do you handle side effects in functional components?
+15.	What is the purpose of useEffect() hook?
+State Management:
+16.	What is state management in React?
+17.	Explain the Context API. How is it used for state management?
+18.	What are the popular libraries used for state management in React?
+19.	Compare Redux and Context API for state management.
+20.	Explain the concept of immutability and its importance in React.
+Routing and Navigation:
+21.	How do you handle routing in React applications?
+22.	Explain the purpose of React Router. How do you implement routing using it?
+23.	What are nested routes in React Router?
+Hooks:
+24.	What are React hooks? Why were they introduced?
+25.	Explain useState() and how it works.
+26.	Describe the useRef() hook. What is its use case?
+27.	What is the custom hook in React?
+Forms and Data Handling:
+28.	How do you handle forms in React?
+29.	What is controlled vs. uncontrolled components in React forms?
+30.	Explain how to perform form validation in React.
+Event Handling:
+31.	How do you handle events in React?
+32.	Explain event delegation in React.
+33.	What are synthetic events in React?
+Styling in React:
+34.	What are the different ways to style components in React?
+35.	Compare inline styles with CSS stylesheets for React components.
+36.	What is CSS-in-JS? How does it work with React?
+Testing:
+37.	How would you test React components?
+38.	What is Jest? How do you integrate Jest with React for testing?
+39.	Explain the purpose of React Testing Library.
+Advanced Topics:
+40.	What are higher-order components (HOCs)? How are they used?
+41.	Explain the concept of render props.
+42.	What are fragments in React? When and why use them?
+43.	How does React handle security?
+44.	Describe code splitting in React applications.
+Optimization and Best Practices:
+45.	How can you optimize a React application’s performance?
+46.	What are keys in React? Why are they important?
+47.	Explain the significance of PureComponent and React.memo().
+48.	Describe the importance of using shouldComponentUpdate() or React.memo().
+Integration and Deployment:
+49.	How would you integrate React with other libraries or frameworks?
+50.	Explain the process of deploying a React application.
+Error Handling:
+51.	How do you handle errors in React applications?
+52.	Describe error boundaries in React.
+Stateful vs. Stateless Components:
+53.	What are stateful and stateless components?
+54.	When would you use a stateless functional component over a class component?
+Context and Provider Pattern:
+55.	What is the provider pattern in React?
+56.	How is the Context API related to the provider pattern?
+Redux:
+57.	What is Redux? Why is it used in React applications?
+58.	Explain the core principles of Redux (store, actions, reducers).
+59.	How do you connect Redux with React components?
+Performance Optimization:
+60.	How can you optimize the rendering performance of a React application?
+61.	Explain the significance of React DevTools for performance analysis.
+Server-Side Rendering (SSR) and Next.js:
+62.	What is server-side rendering (SSR) in React?
+63.	Explain the benefits of Next.js for server-side rendering.
+Authentication and Authorization:
+64.	How would you implement authentication in a React application?
+65.	Explain how you manage user sessions and tokens in React.
+Mobile Development with React Native:
+66.	What is React Native? How is it different from React?
+67.	Explain the process of building a mobile application using React Native.
+Interview and Problem-Solving:
+68.	Describe a recent React project you’ve worked on.
+69.	How do you handle state management in large-scale React applications?
+70.	What are some common pitfalls or challenges you've faced while working with React?
+

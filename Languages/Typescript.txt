@@ -1,0 +1,57 @@
+
+# TypeScript Basics:
+
+1. **What is TypeScript?**
+2. **What are the key differences between TypeScript and JavaScript?**
+3. **How do you install TypeScript?**
+4. **Explain the benefits of using TypeScript.**
+5. **What are the basic types in TypeScript?**
+
+# TypeScript Types and Interfaces:
+
+6. **What are the differences between `interface` and `type` in TypeScript?**
+7. **How do you define optional properties in TypeScript?**
+8. **Explain the use of Union and Intersection types in TypeScript.**
+9. **What are generics in TypeScript and how are they used?**
+
+# TypeScript Advanced Features:
+
+10. **What are decorators in TypeScript and how do they work?**
+11. **Explain the concept of modules in TypeScript.**
+12. **What is the purpose of the `readonly` modifier in TypeScript?**
+13. **How does TypeScript support async/await syntax for handling asynchronous operations?**
+14. **Discuss the concept of declaration merging in TypeScript.**
+
+# TypeScript Compilation and Configuration:
+
+15. **What is the TypeScript compiler (tsc) and how do you use it?**
+16. **What is a tsconfig.json file and why is it used?**
+17. **Explain the differences between `tsconfig.json` options like `target`, `module`, `strict`, etc.**
+
+# TypeScript Tooling and Libraries:
+
+18. **How does TypeScript integrate with popular JavaScript frameworks like Angular or React?**
+19. **What is DefinitelyTyped? Why is it used in TypeScript?**
+20. **How can you integrate TypeScript with Node.js projects?**
+
+# TypeScript Error Handling and Debugging:
+
+21. **Discuss common TypeScript errors and how to resolve them.**
+22. **How can you debug TypeScript code?**
+
+# TypeScript Best Practices:
+
+23. **What are some best practices for writing clean and maintainable TypeScript code?**
+24. **How do you handle type assertions in TypeScript?**
+25. **Explain the concept of type guards in TypeScript.**
+
+# TypeScript Testing:
+
+26. **How can TypeScript be used for testing applications?**
+27. **Discuss the use of mocking in TypeScript tests.**
+
+# TypeScript and JavaScript Compatibility:
+
+28. **How does TypeScript handle existing JavaScript libraries and codebases?**
+29. **What is the `any` type in TypeScript and when should you use it?**
+30. **Discuss the concept of TypeScript declaration files (.d.ts).**

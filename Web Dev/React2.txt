@@ -1,0 +1,51 @@
+React
+
+1. Define React.
+2. Describe JSX in React.
+3. Explain the virtual DOM in React.
+4. Why are keys important in React?
+5. Differentiate between state and props in React.
+6. Compare and contrast state and props in React.
+7. Explain the concept of lifting state up in React.
+8. What is the purpose of setState() in React?
+9. Define React Router and its role.
+10. Elaborate on the useEffect hook in React.
+11. What are controlled components in React?
+12. Define Redux and its role in React applications.
+13. Explain the concept of higher-order components (HOC) in React.
+14. What is the purpose of the useReducer hook in React?
+15. Why is the key attribute significant in React lists?
+16. Compare class components and functional components in React.
+17. Explain the concept of refs in React.
+18. Define React hooks and their purpose.
+19. Explain the use of the useContext hook in React.
+20. What is the purpose of dangerouslySetInnerHTML in React?
+21. Describe the componentDidMount lifecycle method in React.
+22. What are React Developer Tools used for?
+23. Explain the concept of context in React.
+24. What are the advantages of using React?
+25. How does React handle prop drilling, and how can it be mitigated?
+26. Explain the purpose of the shouldComponentUpdate method in React.
+27. Discuss the significance of React Fragments.
+28. Why is the key prop important in React Router?
+29. What is the purpose of the forwardRef function in React?
+30. Explain the concept of error boundaries in React.
+31. Why is the memo function significant in React?
+32. How does React handle forms?
+33. What is the purpose of the useMemo hook in React?
+34. Explain the significance of the useCallback hook in React.
+35. Define React portals and their use cases.
+36. Describe the concept of suspense in React.
+37. What is the purpose of the cleanup function in useEffect hook?
+38. How does React handle routing within applications?
+39. Explain the purpose of the useLayoutEffect hook in React.
+40. Define lazy loading and its application in React.
+41. Why is the memo function important in React?
+42. How does React implement code splitting?
+43. What is the purpose of the useImperativeHandle hook in React?
+44. Explain the concept of the useDebugValue hook in React.
+45. What is the purpose of the useState hook in React?
+46. Discuss the significance of the SuspenseList component in React.
+47. Why is the react-scripts package essential in React applications?
+48. Elaborate on the concept of error boundaries in React.
+49. What is the purpose of the useReducer hook in React?

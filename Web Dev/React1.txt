@@ -1,0 +1,18 @@
+React Inteview Questions
+
+1. What characteristics does React exhibit?
+2. What distinguishes an element from a component in React?
+3. How does one go about generating components within React?
+4. Could you elaborate on the Virtual DOM concept in React?
+5. Why are keys employed in React, and what purpose do they serve?
+6. Outline the steps for crafting a React application that displays "hello world."
+7. In React, what's the method for inserting comments?
+8. Detail the process of creating lists in React.
+9. Can you compare functional components to class components in React?
+10. Define React Hooks and explain their significance.
+11. How would you describe the functionality of useState() within React?
+12. Enumerate the various categories of Hooks available in React.
+13. What role does Strict Mode play in React?
+14. What contrasts can be drawn between React and Angular?
+15. What lifecycle methods does React employ?
+16. Explain the concept of prop drilling in React.

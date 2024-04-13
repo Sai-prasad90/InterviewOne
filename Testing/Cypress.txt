@@ -1,0 +1,82 @@
+## Cypress Interview Questions Categorized
+
+### For Freshers
+
+#### Cypress Basics
+1. What is Cypress?
+2. How does Cypress differ from other testing frameworks like Selenium?
+3. Explain the architecture of Cypress.
+4. What are the key features of Cypress?
+5. What programming languages are supported by Cypress?
+6. How can you install Cypress?
+
+#### Cypress Commands and Assertions
+11. Explain the significance of `cy.get()` in Cypress.
+13. How can you perform assertions in Cypress?
+15. How do you handle asynchronous operations in Cypress tests?
+
+#### Cypress Test Organization
+26. What is the Cypress folder structure?
+27. How can you organize tests into different files and folders in Cypress?
+28. Explain the purpose of `beforeEach()` and `afterEach()` in Cypress.
+
+#### Cypress Best Practices and Troubleshooting
+38. What are some best practices for writing Cypress tests?
+40. What are some common issues faced when using Cypress?
+41. Explain how to debug Cypress tests.
+
+#### Cypress Plugins and Extensibility
+44. Explain the role of plugins in Cypress.
+45. How can you write custom Cypress plugins?
+47. How do you integrate third-party plugins with Cypress?
+
+#### Cypress Mobile Testing
+69. Can Cypress be used for mobile app testing? Explain.
+70. How do you perform responsive design testing with Cypress?
+
+#### Cypress Community and Support
+72. How active is the Cypress community?
+73. What resources are available for learning Cypress?
+74. How do you contribute to the Cypress open-source project?
+
+### For Experienced Candidates
+
+#### Cypress Integration with Frameworks and Tools
+31. How can you integrate Cypress with Cucumber?
+32. Explain the usage of Cypress with TypeScript.
+34. How do you integrate Cypress with CI/CD pipelines (e.g., Jenkins, CircleCI)?
+
+#### Cypress Automation Strategy
+54. How do you prioritize test cases for automation using Cypress?
+57. How do you manage test data for automation in Cypress?
+
+#### Cypress Reporting and Metrics
+61. How do you generate test reports in Cypress?
+62. What metrics can you gather from Cypress tests?
+63. How do you integrate Cypress with tools like Allure for reporting?
+
+#### Cypress Deployment and Infrastructure
+65. How do you deploy Cypress tests to a testing environment?
+66. What infrastructure is required to run Cypress tests at scale?
+67. How can you automate test execution using Cypress and cron jobs?
+
+#### Cypress Advanced Concepts
+86. Explain how to integrate Cypress with browser DevTools.
+87. How do you perform visual regression testing with Cypress?
+89. How do you handle authentication and login scenarios in Cypress?
+90. Explain how to perform database testing with Cypress.
+
+#### Cypress CI/CD Integration
+91. How do you integrate Cypress with GitHub Actions?
+92. How do you configure Cypress tests in a CI/CD pipeline?
+93. Discuss the advantages of running Cypress tests in a Docker container.
+
+#### Cypress Testing Strategy
+95. How do you define a robust Cypress testing strategy?
+98. How do you handle API mocking and stubbing in Cypress?
+99. How do you implement data-driven testing in Cypress?
+
+#### Cypress Framework Comparison
+79. Compare Cypress with Jest.
+81. Compare Cypress with Playwright.
+83. How does Cypress compare to Karate for API testing?

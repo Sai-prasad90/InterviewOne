@@ -1,0 +1,87 @@
+### Playwright Basics
+
+1. What is Playwright?
+2. How does Playwright differ from Selenium?
+3. Describe Playwright's architecture.
+4. Which programming languages does Playwright support?
+5. How do you install Playwright?
+6. Explain Playwright's key features.
+7. How do you launch a browser instance with Playwright?
+8. What advantages does Playwright offer over Puppeteer?
+9. How can you run Playwright tests in headless mode?
+10. What is the Playwright Test Runner?
+
+### Playwright Commands and Page Interactions
+
+11. What does `page.goto()` do in Playwright?
+12. How do you interact with webpage elements using Playwright?
+13. Compare `page.click()` and `page.dblclick()` in Playwright.
+14. Explain the use of `page.fill()` and `page.type()` in Playwright.
+15. How do you handle dropdowns and select options in Playwright?
+16. How can you capture screenshots and videos during test execution with Playwright?
+17. How do you manage cookies and local storage in Playwright tests?
+18. What is the purpose of `page.waitForSelector()` in Playwright?
+19. How do you simulate keyboard events and user inputs in Playwright?
+20. Discuss Playwright's support for iframes and nested contexts.
+
+### Playwright Fixtures and Data Handling
+
+21. What are fixtures in Playwright, and how do you use them?
+22. How do you parameterize tests using fixtures in Playwright?
+23. Explain the role of `page.evaluate()` in Playwright.
+24. How do you handle HTTP requests and responses in Playwright tests?
+25. How can you stub network requests in Playwright?
+
+### Playwright Test Organization
+
+26. Describe the folder structure for organizing Playwright tests.
+27. How do you skip tests or test cases in Playwright?
+28. What are `beforeAll()` and `afterAll()` used for in Playwright?
+29. How do you configure environment variables in Playwright tests?
+30. Discuss test suites and test fixtures in Playwright.
+
+### Playwright Integration with Frameworks and Tools
+
+31. How can you integrate Playwright with Jest or other testing frameworks?
+32. Explain Playwright's usage with TypeScript.
+33. Discuss using ESLint and Prettier with Playwright.
+34. How do you integrate Playwright tests into CI/CD pipelines?
+35. Can Playwright be used with Docker, and how?
+36. How do you integrate Playwright with Visual Studio Code?
+37. How can you generate code coverage reports in Playwright?
+38. Discuss Playwright's role in end-to-end testing within microservices architecture.
+
+### Playwright Best Practices and Troubleshooting
+
+39. What are best practices for writing maintainable Playwright tests?
+40. How do you handle test flakiness in Playwright?
+41. What are common issues faced with Playwright, and how do you troubleshoot them?
+42. How do you effectively debug Playwright tests?
+43. How do you manage test dependencies and data isolation in Playwright?
+44. What are aliases in Playwright, and how do you use them?
+
+### Playwright Plugins and Extensibility
+
+45. How do plugins extend Playwright's capabilities?
+46. How do you create custom Playwright plugins?
+47. How can third-party plugins be integrated with Playwright?
+48. What is the Playwright Test Runner, and how do you extend it?
+49. How do you implement custom commands and utilities in Playwright?
+50. How can Playwright be integrated with cloud-based testing platforms?
+
+### Playwright Framework Comparison
+
+51. Compare Playwright with Puppeteer and Selenium in features and performance.
+52. Why choose Playwright over Selenium for test automation?
+53. How does Playwright handle cross-browser testing compared to other frameworks?
+54. What are limitations of Playwright, and how are they addressed?
+55. Compare Playwright with TestCafe and Cypress in architecture and ease of use.
+
+### Playwright Automation Strategy
+
+56. How do you prioritize test cases for automation with Playwright?
+57. What criteria determine tests suitable for Playwright automation?
+58. How can continuous testing be achieved using Playwright?
+59. Discuss strategies for managing test data and configurations.
+60. How do you implement parallel test execution with Playwright?
+

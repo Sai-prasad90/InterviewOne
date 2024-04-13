@@ -1,0 +1,85 @@
+**Node.js Interview Questions**
+
+**Fresher Level:**
+
+**Node.js Basics:**
+
+1. What exactly is Node.js?
+2. How does Node.js distinguish itself from traditional JavaScript environments?
+3. Can you describe how Node.js utilizes an event-driven architecture?
+4. What is the function of an event loop in Node.js?
+5. How does Node.js manage asynchronous operations?
+
+**Modules and NPM:**
+
+6. What do you understand by modules in Node.js?
+7. Differentiate between `require()` and `import` in Node.js.
+8. What is npm, and how do you integrate it with Node.js?
+9. Explain the significance of the `package.json` file in Node.js.
+10. How do you install dependencies using npm?
+
+**Callbacks and Promises:**
+
+11. Define a callback function.
+12. Elaborate on the concept of callback hell.
+13. What role do Promises play in Node.js?
+14. How are errors managed within Promises?
+15. What is async/await, and how does it streamline working with asynchronous code?
+
+**File System and Streams:**
+
+16. How do you read a file in Node.js?
+17. Detail the distinction between synchronous and asynchronous file operations in Node.js.
+18. What are streams, and how are they employed in Node.js?
+19. Walk me through creating a readable stream in Node.js.
+20. Explain the concept of piping in Node.js streams.
+
+**HTTP and Networking:**
+
+21. How would you establish an HTTP server in Node.js?
+22. What purpose does Express.js serve, and why is it popular?
+23. Describe how routing is handled in Express.
+24. What is middleware in Express, and how is it utilized?
+25. How do you execute HTTP requests in Node.js?
+
+**Experienced Level:**
+
+**Error Handling and Debugging:**
+
+26. How do you manage exceptions in Node.js?
+27. Discuss the role and functionality of the `process` object in Node.js.
+28. What techniques can you employ to debug Node.js applications effectively?
+29. Explain the utility of the Node.js `util` module.
+30. What are some prevalent tools used for profiling Node.js applications?
+
+**Security and Performance:**
+
+31. Enumerate some best practices for securing Node.js applications.
+32. How can you avoid callback hell in Node.js?
+33. What is clustering in Node.js, and why is it beneficial?
+34. Explain the mechanism of garbage collection in Node.js.
+35. How do you optimize the performance of a Node.js application?
+
+**Testing and Deployment:**
+
+36. What are popular testing frameworks for Node.js?
+37. Describe the process of conducting unit testing in Node.js.
+38. What is Continuous Integration/Continuous Deployment (CI/CD), and how is it relevant to Node.js?
+39. How would you deploy a Node.js application to production?
+40. Name some tools or platforms used for monitoring Node.js applications.
+
+**Advanced Concepts:**
+
+41. Elaborate on the use of child processes in Node.js.
+42. What is the purpose of the `cluster` module in Node.js?
+43. How do you manage sessions in a Node.js application?
+44. Explain the concept of GraphQL and its relationship with Node.js.
+45. How can you implement caching in a Node.js application?
+
+**Miscellaneous:**
+
+46. Define the role of the event emitter in Node.js.
+47. How do you incorporate web sockets into a Node.js application?
+48. What differentiates Node.js from other server-side technologies like Python (Django/Flask) or Ruby (Rails)?
+49. How can you secure environment variables in a Node.js application?
+50. What are some anticipated features or enhancements in the latest Node.js version?

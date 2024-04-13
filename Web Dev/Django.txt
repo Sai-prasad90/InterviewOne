@@ -1,0 +1,80 @@
+Djnago interview questions
+
+### Django Basics
+1. What is Django?
+2. Explain the MVC (Model-View-Controller) architecture and how it's implemented in Django.
+3. What is Django ORM (Object-Relational Mapping) and how does it work?
+4. Describe the request-response cycle in Django.
+5. What are Django class-based views and function-based views? Compare them.
+
+### Django Models
+6. How do you define models in Django? Provide an example.
+7. Explain Django model fields and mention a few field types.
+8. What is the purpose of `related_name` attribute in Django models?
+9. How do you perform database migrations in Django?
+10. What are signals in Django?
+
+### Django Views and Templates
+11. How do you create URLs and map them to views in Django?
+12. What are Django templates? How do you use template inheritance?
+13. Explain context processors in Django.
+14. How do you pass data to a Django template?
+15. What is a session in Django?
+
+### Django Forms
+16. How do you create forms in Django?
+17. What are ModelForms in Django?
+18. Explain form validation in Django.
+
+### Django Admin
+19. How do you register models with the Django admin site?
+20. What are ModelAdmin classes and why are they used?
+21. How can you customize the Django admin interface?
+
+### Django Security
+22. How does Django prevent against CSRF (Cross-Site Request Forgery) attacks?
+23. Explain Django's user authentication and authorization system.
+24. What is SQL injection? How does Django protect against it?
+
+### Django Rest Framework (DRF)
+25. What is Django Rest Framework (DRF) and why would you use it?
+26. Explain serializers in Django Rest Framework.
+27. How do you create API views using Django Rest Framework?
+
+### Advanced Django Concepts
+28. What is middleware in Django? Give an example.
+29. How do you optimize performance in Django?
+30. Explain caching techniques in Django.
+31. What are Django signals and how are they used?
+
+### Deployment and Scaling
+32. How do you deploy a Django application?
+33. What are the common methods to scale a Django application?
+34. Explain the role of WSGI and ASGI in Django deployment.
+
+### Testing in Django
+35. How do you write unit tests in Django?
+36. What are Django's testing tools and what do they offer?
+
+### Database and ORM
+37. Discuss the support for multiple databases in Django.
+38. How do you use raw SQL queries in Django?
+39. Explain the difference between `select_related()` and `prefetch_related()`.
+
+### Django Project Structure
+40. Describe the typical directory structure of a Django project.
+41. What is the purpose of the `settings.py` file in Django?
+42. How can you manage different configurations (development, production) in Django?
+
+### Django and Frontend
+43. How does Django integrate with frontend frameworks like React or Vue.js?
+44. What is the role of Django's templating engine in frontend development?
+
+### Django Community and Ecosystem
+45. What are Django apps? How do you create reusable apps in Django?
+46. Discuss the Django REST framework's role in building APIs.
+47. How can you extend Django's functionality using third-party packages?
+48. Where can you find resources for learning and troubleshooting Django?
+49. What are Django's best practices for project organization and development?
+50. Can you explain the concept of Django middleware? Give an example of its use.
+

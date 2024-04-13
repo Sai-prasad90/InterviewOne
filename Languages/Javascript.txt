@@ -1,0 +1,172 @@
+Most Asked Javascript Questions
+Basics:
+1. What is JavaScript?
+2. Explain the difference between `undefined` and `null`.
+3. What is the difference between `==` and `===` operators?
+4. How does JavaScript handle asynchronous operations?
+5. What is the difference between function declaration and function expression?
+6. What is a closure in JavaScript?
+7. Explain hoisting in JavaScript.
+8. What is the use of the `use strict` directive?
+9. What are the different data types in JavaScript?
+10. Explain the difference between `var`, `let`, and `const`.
+11. How do you clone an object in JavaScript?
+12. Explain event delegation in JavaScript.
+# Advanced JavaScript Concepts:
+13. What is prototypal inheritance in JavaScript?
+14. How does JavaScript handle memory management?
+15. What are higher-order functions?
+16. Explain the concept of currying in JavaScript.
+17. What are callbacks, promises, and async/await?
+18. What is the event loop in JavaScript?
+19. What is a generator function in JavaScript?
+20. What is the purpose of the `this` keyword in JavaScript?
+21. Explain the concept of function composition.
+22. What is memoization and how is it useful in JavaScript?
+# ES6 Features:
+23. What are the new features introduced in ES6?
+24. Explain the arrow functions in ES6.
+25. What is destructuring in ES6?
+26. What are template literals in ES6?
+27. What is the `let` and `const` keyword in ES6?
+28. Explain the `class` syntax in ES6.
+29. What are default parameters in ES6?
+30. What are rest and spread operators in ES6?
+# DOM Manipulation:
+31. How do you select elements in the DOM using JavaScript?
+32. Explain the difference between `innerHTML` and `textContent`.
+33. How do you create and remove elements in the DOM dynamically?
+34. Explain event bubbling and event capturing.
+35. What is the `addEventListener` method used for?
+36. How do you handle form submissions in JavaScript?
+# Error Handling:
+37. What are JavaScript errors and how do you handle them?
+38. What is the purpose of the `try...catch` statement?
+39. Explain the concept of error propagation.
+40. How do you create custom error types in JavaScript?
+# Array Methods:
+41. What are the different array methods available in JavaScript?
+42. Explain `map`, `filter`, `reduce`, and `forEach` methods.
+43. How do you remove duplicates from an array in JavaScript?
+44. Explain the difference between `slice` and `splice` methods.
+45. How do you sort an array in JavaScript?
+# Object-Oriented Programming:
+46. Explain the concept of encapsulation in JavaScript.
+47. What is inheritance in JavaScript?
+48. How do you implement inheritance in JavaScript?
+49. Explain polymorphism in JavaScript.
+50. What is the difference between prototypal and classical inheritance?
+# DOM Manipulation:
+1. What is the DOM?
+2. How do you select an element by its ID using JavaScript?
+3. How do you select elements by their class name in JavaScript?
+4. Explain the difference between `document.getElementById()` and `document.querySelector()`.
+5. How do you create a new HTML element using JavaScript?
+6. What is event delegation?
+7. How can you add an event listener to an element?
+8. What is the `addEventListener()` method used for?
+9. How do you remove an event listener from an element?
+10. What is the difference between `innerText` and `innerHTML`?
+11. Explain the purpose of `setAttribute()` and `getAttribute()` methods.
+12. How can you check if an element has a particular class?
+13. What is the purpose of the `classList` property?
+14. How do you toggle a class on an element?
+15. What is the difference between `appendChild()` and `insertBefore()`?
+16. Explain the concept of the event propagation phases.
+17. How do you prevent the default behavior of an event?
+18. Explain the use of `event.target` and `event.currentTarget`.
+19. What is the purpose of the `this` keyword in event handlers?
+20. How can you create a custom event in JavaScript?
+# AJAX (Asynchronous JavaScript and XML):
+21. What does AJAX stand for?
+22. Explain the difference between synchronous and asynchronous JavaScript.
+23. What are the steps involved in making an AJAX request?
+24. How do you create an XMLHttpRequest object in JavaScript?
+25. Explain the purpose of the `open()` method in AJAX requests.
+26. What are the possible values for the readyState property of an XMLHttpRequest object?
+27. How do you handle the response from an AJAX request?
+28. What is the purpose of the `onreadystatechange` event handler?
+29. Explain the use of the `send()` method in AJAX requests.
+30. What is the difference between GET and POST requests in AJAX?
+31. How can you send data along with an AJAX request?
+32. Explain the concept of AJAX polling.
+33. What is JSON and how is it related to AJAX?
+34. How do you parse JSON data received from an AJAX request?
+35. Explain the concept of AJAX callbacks.
+36. What are AJAX promises?
+37. What is the purpose of the fetch() API in modern JavaScript?
+38. How do you handle errors in AJAX requests?
+39. Explain the same-origin policy in AJAX.
+40. What is CORS (Cross-Origin Resource Sharing) and why is it necessary in AJAX?
+# Advanced DOM and AJAX:
+41. Explain the difference between GET and POST requests in the context of form submissions.
+42. How can you dynamically load content onto a web page using AJAX?
+43. Explain how you can implement lazy loading of images using AJAX.
+44. How do you handle cross-browser compatibility issues with AJAX?
+45. Explain the concept of AJAX prefetching.
+46. How can you implement autocomplete functionality using AJAX?
+47. What are the benefits of using AJAX for form submissions?
+48. Explain how you can implement infinite scrolling using AJAX.
+49. How do you handle concurrency issues in AJAX requests?
+50. Explain how you can implement drag-and-drop functionality using AJAX.
+# JavaScript and DOM Security:
+51. What are some common security vulnerabilities associated with DOM manipulation?
+52. How can you prevent XSS (Cross-Site Scripting) attacks when manipulating the DOM?
+53. What is the danger of using eval() for dynamic code execution?
+54. How can you sanitize user input before using it in DOM manipulation?
+55. Explain the concept of Content Security Policy (CSP) and its relevance to DOM manipulation.
+# Performance Optimization:
+56. How can you optimize DOM manipulation for better performance?
+57. Explain the concept of DOM reflow and how to minimize it.
+58. What are the performance implications of using inline JavaScript in HTML?
+59. How do you optimize AJAX requests for faster response times?
+60. Explain how caching can improve the performance of AJAX requests.
+# Frameworks and Libraries:
+61. What are the advantages of using jQuery for DOM manipulation compared to raw JavaScript?
+62. How does React handle DOM manipulation differently from traditional JavaScript?
+63. Explain the role of virtual DOM in frameworks like React and Vue.js.
+64. How does Angular handle AJAX requests compared to raw JavaScript?
+65. What are some popular AJAX libraries and frameworks other than XMLHttpRequest?
+# Cross-Browser Compatibility:
+66. How do you ensure that your JavaScript code works across different browsers?
+67. What are some common pitfalls to avoid when dealing with cross-browser compatibility?
+68. Explain the importance of feature detection over browser detection in JavaScript.
+69. How do you handle vendor prefixes for CSS properties in JavaScript?
+# Testing and Debugging:
+70. What tools and techniques can you use to debug JavaScript code?
+71. How do you test JavaScript code that interacts with the DOM?
+72. What is the purpose of unit testing frameworks like Jasmine and Mocha?
+73. How can you simulate AJAX requests in unit tests?
+74. What are some common debugging techniques for AJAX-related issues?
+# Browser APIs and Events:
+75. Explain the difference between bubbling and capturing in event propagation.
+76. What are some common browser events other than click and submit?
+77. How do you handle keyboard events in JavaScript?
+78. What is the localStorage API used for in web browsers?
+79. How do you use the History API for manipulating browser history?
+80. Explain the purpose of
+the window object in JavaScript.
+# Web Standards and Best Practices:
+81. What are some best practices for writing efficient and maintainable JavaScript code?
+82. How can you ensure accessibility when manipulating the DOM with JavaScript?
+83. What are some guidelines for optimizing web page load times when using AJAX?
+84. How do you ensure graceful degradation of JavaScript functionality for users with disabled JavaScript?
+85. Explain the importance of progressive enhancement in web development.
+# Browser Security:
+86. What are some common security threats associated with JavaScript execution in web browsers?
+87. How can you protect against CSRF (Cross-Site Request Forgery) attacks when using AJAX?
+88. Explain the role of HTTPS in securing AJAX requests.
+89. What security measures can you implement to protect sensitive data transmitted via AJAX?
+# ES6 and Beyond:
+90. What are some new features introduced in ES6 (ECMAScript 2015) for DOM manipulation?
+91. How do you use arrow functions for event handlers in JavaScript?
+92. Explain the purpose of template literals in JavaScript and how they can be used for DOM manipulation.
+93. What are destructuring assignments and how can they be used in JavaScript?
+94. How do you use `let` and `const` keywords for variable declaration in JavaScript?
+95. What are promises and how can they be used in AJAX requests?
+# Miscellaneous:
+96. How can you integrate JavaScript with server-side languages like PHP for AJAX requests?
+97. Explain how you can use third-party APIs in conjunction with AJAX requests.
+98. What are some considerations for internationalization and localization in JavaScript DOM manipulation?
+99. How do you handle memory leaks in long-running JavaScript applications?
+100. Can you explain the concept of web workers and their relevance to AJAX requests?

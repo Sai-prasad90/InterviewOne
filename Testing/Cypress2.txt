@@ -1,0 +1,52 @@
+   Cypress Important 
+
+``1. Write a Cypress test to visit a website and assert the title.
+    2. How do you perform a login test using Cypress?
+    3. Write a Cypress test to interact with a dropdown menu and select an option.
+    4. How do you perform API testing with Cypress?
+    5. Write a Cypress test to upload a file.
+    6. How do you handle assertions in Cypress?
+    7. Write a Cypress test to handle a confirmation dialog.
+    8. How do you check if an element contains specific text?
+    9. Write a Cypress test to perform a Google search.
+    10. How do you create a custom command in Cypress?
+    11. Write a Cypress test to interact with checkboxes.
+    12. How do you set up a beforeEach hook in Cypress?
+    13. Write a Cypress test to handle a date picker.
+    14. How do you handle iframes in Cypress?
+    15. Write a Cypress test to handle tabs/windows.
+    16. How do you perform visual regression testing with Cypress?
+    17. Write a Cypress test to handle a drag-and-drop interaction.
+    18. How do you simulate network conditions in Cypress?
+    19. Write a Cypress test to perform pagination testing.
+    20. How do you run Cypress tests in headless mode?
+    21. Write a Cypress test to perform a login with invalid credentials and verify the error message.
+    22. How do you handle dynamic content in Cypress?
+    23. Write a Cypress test to perform a search and verify the results.
+    24. How do you create a custom command to handle login?
+    25. Write a Cypress test to validate the presence of specific elements on a page.
+    26. How do you handle environment variables in Cypress?
+    27. Write a Cypress test to validate the status code of an API request.
+    28. How do you simulate different viewport sizes in Cypress?
+    29. Write a Cypress test to interact with a dynamic table.
+    30. How do you handle multiple assertions in a single test?
+    31. Write a Cypress test to handle a form submission with validation.
+    32. How do you use aliases in Cypress?
+    33. Write a Cypress test to handle a time picker.
+    34. How do you perform cross-browser testing with Cypress?
+    35. Write a Cypress test to perform a logout.
+    36. How do you handle dynamic URLs in Cypress?
+    37. Write a Cypress test to handle a multi-select dropdown.
+    38. How do you set up a Cypress project from scratch?
+    39. Write a Cypress test to handle a tooltip.
+    40. How do you handle navigation in Cypress?
+    41. Write a Cypress test to handle a dynamically generated list.
+    42. How do you perform API testing with Cypress using fixtures?
+    43. Write a Cypress test to handle a tabbed interface.
+    44. How do you handle cookies in Cypress?
+    45. Write a Cypress test to perform a search with autocomplete suggestions.
+    46. How do you handle random data in Cypress tests?
+    47. Write a Cypress test to handle a progress bar.
+    48. How do you handle window scrolling in Cypress?
+    49. Write a Cypress test to handle a pop-up modal.
+    50. How do you handle network conditions in Cypress to test a slow network?
