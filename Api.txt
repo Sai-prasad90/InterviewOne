@@ -1,0 +1,66 @@
+
+Api interview questions
+1. Fundamental API Concepts:
+1.	What is an API?
+2.	Difference between API and Web services?
+3.	What is SOAP?
+4.	What is Rest API?
+5.	Difference between SOAP and REST?
+6.	What is REST?
+7.	What are RESTful Web Services?
+8.	What is a "Resource" in REST?
+9.	Key characteristics of REST
+10.	Messaging in RESTful Web services
+11.	URI in REST-based web services
+12.	Payload in RESTful Web services
+13.	Caching mechanism in APIs
+14.	What are SOAP Web services?
+15.	How SOAP works?
+16.	When to use SOAP API?
+17.	Elements and syntax rules of a SOAP message structure
+18.	Transport method in SOAP
+19.	SOAP envelope element characteristics
+20.	Advantages of SOAP over REST
+21.	Differences and considerations between SOAP and REST
+2. API Testing:
+1.	What is API Testing?
+2.	Common types and methods of API Testing
+3.	Advantages and importance of API Testing
+4.	Verification aspects in API Testing
+5.	Challenges faced in API testing
+6.	Types of bugs and errors in API testing
+7.	API test design principles and best practices
+8.	Test environment setup for API testing
+9.	API testing procedure and approach
+10.	API testing tools and their usage
+11.	Differences between API Testing and Unit Testing
+12.	Common API errors and bugs identified during testing
+13.	Considerations and strategies for effective API testing
+3. Web API and Service Architectures:
+1.	Architectural styles for creating Web APIs
+2.	Who can use Web APIs?
+3.	Limits and considerations of API usage
+4.	Factors for choosing between SOAP and REST APIs
+5.	Factors influencing the choice of Web service style (SOAP vs. REST)
+6.	Overview of HTTP methods commonly used in APIs
+7.	Resource creation methods (e.g., GET vs. PUT for resource creation)
+8.	Differences between PUT and POST methods
+9.	Usage and purpose of the OPTIONS method in RESTful services
+10.	Payload limits and considerations in POST requests
+4. Documentation and Documentation Templates:
+1.	Commonly used templates for API documentation
+2.	Considerations and best practices for API documentation
+3.	Importance of clear and comprehensive API documentation
+4.	Factors to consider when writing API documentation
+5.	Documentation updates and versioning practices
+6.	Implications of API changes and deprecation on documentation
+5. Miscellaneous API Topics:
+1.	Examples of popular APIs
+2.	Tools and technologies commonly used in API development and testing
+3.	API-related challenges and their solutions
+4.	Bug types specific to API testing
+5.	Messaging and security aspects in SOAP APIs
+6.	Advantages and drawbacks of SOAP and REST
+7.	Decision factors for choosing between SOAP and REST APIs
+8.	Usage scenarios and limitations of different API styles
+

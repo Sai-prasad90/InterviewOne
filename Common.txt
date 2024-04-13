@@ -1,0 +1,70 @@
+Common Interview questions
+### General Questions
+1. **Can you tell me a little about yourself?**
+2. **How did you hear about the position?**
+3. **What do you know about our company?**
+4. **Why did you apply for this position?**
+5. **Why should we hire you?**
+6. **Why are you looking to leave your current company?**
+7. **Where do you see yourself in 5 years?**
+8. **Can you explain why you changed career paths?**
+9. **What are your outside interests?**
+
+### Skills and Experience
+10. **What are your greatest professional strengths?**
+11. **What is your greatest weakness?**
+12. **Tell me about a challenge or conflict you've faced at work.**
+13. **What's a time you disagreed with a decision that was made at work?**
+14. **Tell me about a time you failed.**
+15. **How would our boss and co-workers describe you?**
+16. **How do you deal with pressure or stressful situations?**
+17. **What changes would you expect to make if you came on board?**
+18. **Give me an example of your creativity/analytical skill/managing ability.**
+
+### Career and Aspirations
+19. **What type of work environment do you prefer?**
+20. **Where could you use some improvement?**
+21. **What are your career options right now?**
+22. **What was the toughest decision you ever had to make?**
+23. **Would you consider starting your own business?**
+24. **What are your goals?**
+25. **How do you define success, and how do you measure up to your own definition?**
+
+### Personal and Behavioral
+26. **What do you like to do outside of work?**
+27. **How do you feel about working nights and weekends?**
+28. **Are you willing to relocate or travel?**
+29. **What do you worry about?**
+30. **Could you be considered a workaholic?**
+31. **What's the most difficult part of being a [your job title]?**
+
+### Situational and Ethical
+32. **Tell me about the most boring job you've ever had.**
+33. **Have you been absent from work more than a few days in any previous position?**
+34. **How do you feel about reporting to a younger person/minority/woman?**
+35. **What would you do if a colleague at your level wasn't pulling his/her weight, and this was hurting your department?**
+36. **Do you have the stomach to fire people? Have you had experience firing people when necessary?**
+37. **What would you say to your boss if he's enthusiastic about an idea that you think stinks?**
+
+### Company and Industry Knowledge
+38. **What do you think we could do better or differently?**
+39. **What changes would you expect to make if you came on board?**
+40. **What negative things have you heard about our company?**
+41. **Why should I hire you from the outside when I could promote someone from within?**
+
+### Additional Questions
+42. **How much money are you looking to earn?**
+43. **What are your salary requirements?**
+44. **What good books have you read lately?**
+45. **Who has inspired you in your life and why?**
+46. **Looking back, what would you do differently in your life?**
+47. **Could you have done better in your last job?**
+48. **Can you work under pressure?**
+49. **May I contact your present employer for a reference?**
+50. **Sell me this stapler/pencil/clock (or other object on the desk).**
+
+### Revision and Additions
+- **Revise**: Some questions like "Where do you see yourself in 5 years?" and "Can you explain why you changed career paths?" to sound more conversational and open-ended.
+- **Add**: Questions focused on specific technical skills or technologies relevant to the IT role, such as "Describe your experience with [specific programming language or technology]" or "Have you worked with [specific system or software], and if so, how?"
+- **Modify**: Questions like "How much money are you looking to earn?" can be rephrased to be more context-specific, like "What salary range are you targeting for this position?"
+  

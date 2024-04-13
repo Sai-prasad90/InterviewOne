@@ -1,0 +1,75 @@
+Git for testers
+### Basic Git Concepts
+
+1. What is Git?
+2. What is version control? How does Git facilitate version control?
+3. Explain the difference between Git and other version control systems.
+4. What is a repository in Git?
+5. What are branches in Git?
+6. What is the purpose of the staging area (index) in Git?
+7. Explain the difference between Git pull and Git fetch.
+8. How do you undo changes in Git?
+9. What is Git stash?
+
+### Working with Repositories
+
+10. How do you clone a Git repository?
+11. What does a Git commit represent?
+12. Explain what a Git merge is and how it works.
+13. How do you resolve merge conflicts in Git?
+14. What is a Git rebase, and when would you use it?
+15. How do you revert a commit in Git?
+16. What is the Git workflow you follow in your projects?
+
+### Branching and Merging
+
+17. How do you create a new branch in Git?
+18. Explain Git's branching strategies (like GitFlow, GitHub Flow).
+19. What is a feature branch in Git?
+20. How do you merge branches in Git?
+21. What is a fast-forward merge in Git?
+22. How do you delete a Git branch?
+
+### Collaboration and Remotes
+
+23. How do you push changes to a remote repository in Git?
+24. Explain the difference between Git remote and Git clone.
+25. How do you fetch changes from a remote repository?
+26. What is a Git pull request?
+27. How do you handle code review in Git/GitHub?
+
+### Git Commands and Tools
+
+28. List some essential Git commands you use daily.
+29. What is the purpose of `git log`?
+30. How do you check the status of your Git repository?
+31. How do you rename a remote in Git?
+32. How do you configure Git?
+33. What is `.gitignore`, and why is it used?
+
+### Advanced Git Topics
+
+34. What are Git hooks, and how do they work?
+35. Explain the difference between Git rebase and Git merge.
+36. What is a Git submodule?
+37. How do you squash multiple commits into a single commit?
+38. How can you tag a specific commit in Git?
+
+### Troubleshooting and Best Practices
+
+39. What are some common Git workflows for teams?
+40. How do you handle large binary files in Git?
+41. What are some ways to optimize Git repository size?
+42. How do you recover a deleted branch in Git?
+43. What are Git best practices for continuous integration/continuous deployment (CI/CD)?
+
+### Testing and Git Integration
+
+44. How can Git be integrated with testing frameworks like Selenium or Jest?
+45. How do you manage test data/versioning in a Git environment?
+46. How do you handle test automation code in Git repositories?
+47. How can Git be used for versioning test plans and test cases?
+48. How do you manage feature toggles or experiment flags using Git?
+49. What are some Git practices that enhance testability and QA processes?
+50. How can Git help in maintaining testing environments or configurations?
+

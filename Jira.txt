@@ -1,0 +1,65 @@
+Jira for interview
+
+### Basic Questions
+1. What is Jira?
+2. How is Jira used in software development?
+3. Can you describe the key features of Jira?
+4. What are the different types of issues in Jira?
+
+### Usage and Workflow
+5. Explain the typical workflow in Jira.
+6. How do you create a new issue in Jira?
+7. How can you link issues in Jira?
+8. What is the purpose of a Jira dashboard?
+
+### Issue Management
+9. How do you prioritize issues in Jira?
+10. What are Jira Epics and how are they used?
+11. How can you assign issues to team members in Jira?
+12. How do you track the status of an issue in Jira?
+
+### Customization
+13. Can you customize workflows in Jira? How?
+14. What are Jira components and how do they help in project management?
+15. How can you create custom fields in Jira?
+
+### Permissions and Access Control
+16. Explain how permissions work in Jira.
+17. How do you manage user access and permissions in Jira?
+
+### Integrations and Add-ons
+18. What integrations does Jira support?
+19. Can you name a few popular Jira add-ons or plugins?
+
+### Reporting and Metrics
+20. How can you generate reports in Jira?
+21. What metrics can you track using Jira?
+
+### Agile and Scrum
+22. How does Jira support Agile methodologies like Scrum and Kanban?
+23. What is a Jira Board, and how is it used in Agile?
+
+### Advanced Features
+24. Explain JQL (Jira Query Language) and its purpose.
+25. What are Jira Software and Jira Service Management?
+
+### Migration and Data Management
+26. How would you migrate data from one Jira instance to another?
+27. What backup strategies would you recommend for Jira?
+
+### Best Practices and Troubleshooting
+28. What are some best practices for using Jira effectively?
+29. How do you handle performance issues in Jira?
+
+### Jira Administration
+30. What tasks are typically performed by a Jira Administrator?
+31. Can you explain how Jira handles user authentication?
+
+### Collaboration and Communication
+32. How does Jira facilitate team collaboration?
+33. Can you integrate Jira with other communication tools?
+
+### Project Management Techniques
+34. How can you use Jira to manage large-scale projects?
+35. What are the benefits of using Jira for project management?
+

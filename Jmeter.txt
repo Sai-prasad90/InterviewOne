@@ -1,0 +1,78 @@
+### Fresher-Level JMeter Interview Questions
+
+#### JMeter Architecture and Basics
+1. **Explain the basic architecture of JMeter.**
+2. **How would you describe the purpose of JMeter in a project?**
+3. **Can you name some protocols that JMeter supports?**
+4. **Describe how JMeter sends requests to a server.**
+5. **What is meant by distributed testing in JMeter?**
+6. **What role does a CSV Data Set Config play in JMeter?**
+7. **How can SSL certificates be utilized in JMeter for HTTPS requests?**
+
+#### JMeter Components and Features
+8. **What are some timers available in JMeter and what are their uses?**
+9. **What is the purpose of the Regular Expression Extractor in JMeter?**
+10. **Describe the role of processors in JMeter.**
+11. **Can you name different types of controllers used in JMeter?**
+12. **What are some common listeners used in JMeter?**
+13. **Explain what Pre-Processors and Post-Processors are used for in JMeter.**
+
+#### Scripting and Parameterization
+14. **Explain how parameterization works in JMeter.**
+15. **What methods can be used for data parameterization in JMeter?**
+16. **How would you manage sessions and cookies when testing with JMeter?**
+17. **What is headless testing in JMeter, and how is it set up?**
+18. **Can you use JavaScript in JMeter scripts? How?**
+19. **How do you parameterize user-defined variables in JMeter?**
+
+#### Performance Testing Concepts
+20. **Can JMeter replicate browser behavior?**
+21. **Differentiate between Gaussian and Poisson Timers in JMeter.**
+22. **How does JMeter handle correlation, and why is it important?**
+23. **What is the purpose of the Ramp-up period in JMeter?**
+24. **Describe the usage of the If Controller in JMeter.**
+25. **Explain think time in load testing and how it is implemented in JMeter.**
+
+### Experienced-Level JMeter Interview Questions
+
+#### Load Testing Strategies and Techniques
+26. **Describe the process and importance of correlation in JMeter for load testing.**
+27. **What is the purpose of the throughput controller in JMeter, and how would you use it?**
+28. **How can AJAX requests be simulated in JMeter?**
+29. **What are best practices for optimizing JMeter scripts for large-scale testing?**
+30. **How do you utilize plugins like WebDriver Sampler in JMeter for web app performance testing?**
+
+#### Reporting and Analysis
+31. **How do you analyze JMeter test results, and what metrics do you focus on?**
+32. **In what formats can JMeter test results be saved?**
+
+#### Advanced JMeter Concepts
+33. **What is BeanShell scripting in JMeter, and how is it used?**
+34. **Can Selenium scripts be integrated into JMeter, and if so, how?**
+35. **Explain the purpose of the Inter-Thread Communication Plugin in JMeter.**
+36. **What is the Throughput Shaping Timer in JMeter used for?**
+
+#### Troubleshooting and Optimization
+37. **How do you troubleshoot performance issues encountered during JMeter testing?**
+38. **What are the key differences between JMeter and LoadRunner?**
+39. **Why is it advisable to run JMeter in GUI mode?**
+40. **What is the recommended maximum number of threads per system in JMeter?**
+41. **Which factors determine the maximum threads to be generated per system in JMeter?**
+42. **What are the advantages of running JMeter in non-GUI mode?**
+
+#### Recording and Playback
+43. **Explain the functionality of the Test Script Recorder in JMeter.**
+44. **Can JMeter record actions from mobile devices?**
+45. **How would you record actions from a mobile device using JMeter?**
+
+#### Miscellaneous
+46. **What is a Root CA certificate, and why is it used in JMeter?**
+47. **What are the main components of a Thread Group in JMeter?**
+48. **How can JDBC testing be performed in JMeter?**
+49. **List some protocols supported by JMeter.**
+50. **What are some important plugins available for JMeter?**
+51. **What are the primary components of a Thread Group in JMeter?**
+52. **What roles do Listeners play in JMeter, and can you name a few?**
+53. **Name some timers in JMeter and explain their purposes.**
+54. **What is meant by a Rendezvous point in JMeter?**
+55. **What do you understand by assertions in the context of JMeter?**

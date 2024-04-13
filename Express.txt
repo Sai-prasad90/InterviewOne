@@ -1,0 +1,91 @@
+EXPRESS JS INTERVIEW QUESTIONS
+
+
+### Basics of Express.js
+1. What is Express.js?
+2. Explain the key features of Express.js.
+3. How is Express.js different from Node.js?
+4. How do you install Express.js in a Node.js project?
+5. What is middleware in Express.js?
+
+### Routing in Express.js
+6. How do you define routes in Express.js?
+7. Explain the difference between `app.get()` and `app.post()` methods.
+8. What are route parameters in Express.js?
+9. How do you handle dynamic routes in Express.js?
+10. How can you handle 404 errors (Page Not Found) in Express.js?
+
+### Middleware in Express.js
+11. What is middleware in Express.js and how does it work?
+12. Explain the difference between `app.use()` and `app.METHOD()` in Express.js.
+13. How do you create custom middleware in Express.js?
+14. What is the purpose of the `next()` function in middleware?
+
+### Request and Response Handling
+15. How do you access request parameters in Express.js?
+16. Explain the difference between `req.params`, `req.query`, and `req.body`.
+17. How do you send JSON responses in Express.js?
+18. What is response chaining in Express.js?
+
+### Template Engines
+19. Which template engines are supported by Express.js?
+20. How do you integrate template engines like EJS or Handlebars with Express.js?
+
+### Error Handling
+21. How do you handle errors in Express.js?
+22. What is the purpose of `app.use()` with four parameters (error handling middleware) in Express.js?
+
+### Middleware Libraries
+23. Name some commonly used middleware in Express.js.
+24. How do you use `express.json()` and `express.urlencoded()` middleware?
+
+### Routing and RESTful APIs
+25. What is RESTful routing and how is it implemented in Express.js?
+26. How do you design and implement RESTful APIs using Express.js?
+
+### Sessions and Authentication
+27. How do you manage sessions in Express.js?
+28. Explain the concept of authentication and authorization in Express.js.
+
+### Security in Express.js
+29. How do you prevent security vulnerabilities like SQL injection and XSS attacks in Express.js?
+30. What is Helmet.js and how can you use it with Express.js for securing HTTP headers?
+
+### Database Integration
+31. How do you integrate MongoDB with Express.js using Mongoose?
+32. What are ORM libraries commonly used with Express.js for SQL databases?
+
+### File Uploads
+33. How do you handle file uploads in Express.js?
+34. Explain the use of `multer` middleware for file uploads.
+
+### Testing and Debugging
+35. What are some tools and techniques for testing Express.js applications?
+36. How do you debug Express.js applications?
+
+### Performance Optimization
+37. How can you optimize the performance of Express.js applications?
+38. Discuss caching strategies in Express.js.
+
+### Deployment and Scaling
+39. How do you deploy an Express.js application?
+40. What are common strategies for scaling Express.js applications?
+
+### Integration with Frontend Frameworks
+41. How does Express.js integrate with frontend frameworks like React or Angular?
+42. Explain the concept of server-side rendering (SSR) in Express.js.
+
+### WebSockets and Real-time Communication
+43. How do you implement WebSockets in Express.js?
+44. Discuss the use of Socket.IO with Express.js for real-time communication.
+
+### Best Practices and Community
+45. What are some best practices for structuring Express.js applications?
+46. How can you contribute to the Express.js community?
+
+### Troubleshooting and Debugging
+47. How do you handle memory leaks in Express.js?
+48. What are some common performance bottlenecks in Express.js applications?
+49. How do you log errors and monitor Express.js applications in production?
+50. Where can you find resources for learning and staying updated about Express.js?
+

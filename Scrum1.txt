@@ -1,0 +1,188 @@
+Scrum Interview Questions 
+
+Freshers:
+* Scrum Basics
+1. What is Scrum?
+2. What are the core values of Scrum?
+3. Explain the roles in Scrum.
+4. What is the difference between Scrum Master and Product Owner?
+5. What is a Sprint in Scrum?
+6. Describe the Scrum artifacts.
+7. What are the ceremonies in Scrum?
+8. Explain the concept of a Product Backlog.
+
+* Scrum Roles
+9. What are the responsibilities of a Scrum Master?
+10. What makes a good Product Owner?
+11. What does the Development Team consist of?
+12. How does the Scrum Master support the Development Team?
+
+* Sprint Planning
+13. What happens during Sprint Planning?
+14. How do you estimate user stories in Scrum?
+15. Who participates in Sprint Planning?
+
+* Daily Scrum
+16. What is the purpose of the Daily Scrum?
+17. What are the typical questions asked during a Daily Scrum?
+18. How long should a Daily Scrum ideally last?
+
+* Sprint Review
+19. What is a Sprint Review?
+20. Who participates in the Sprint Review?
+21. What is the outcome of a Sprint Review?
+
+* Sprint Retrospective
+22. What is a Sprint Retrospective?
+23. Why is the Sprint Retrospective important?
+24. How do you facilitate a Sprint Retrospective?
+
+* Scrum Artifacts
+25. Explain the Product Backlog.
+26. What is a Sprint Backlog?
+27. Describe the Increment in Scrum.
+
+* Testing in Scrum
+28. How does testing fit into Scrum?
+29. Who is responsible for testing in Scrum?
+30. What are Acceptance Criteria?
+31. How do you handle regression testing in Scrum?
+
+* User Stories
+32. What is a User Story?
+33. What are the components of a good User Story?
+34. How do you write acceptance criteria for a User Story?
+
+* Agile Principles
+35. What are the Agile Manifesto principles?
+36. How does Scrum align with Agile principles?
+
+* Definition of Done
+37. What is the Definition of Done (DoD)?
+38. Who defines the Definition of Done?
+39. Why is the Definition of Done important?
+
+* Metrics and Reporting
+40. What metrics are used in Scrum?
+41. How do you measure the success of a Sprint?
+
+* Handling Changes
+42. How does Scrum handle changing requirements?
+43. What is a Product Backlog refinement?
+
+* Agile Best Practices
+44. How can Scrum be adapted in a fast-paced development environment?
+45. What is the importance of transparency in Scrum?
+
+* Tools in Scrum
+46. Name some tools used in Scrum for managing tasks and backlogs.
+47. Have you used any Scrum-specific software? Which ones?
+
+* Team Collaboration
+48. How does Scrum facilitate collaboration within a team?
+49. How do you handle conflicts within a Scrum team?
+
+* Agile Testing Techniques
+50. What is Test-Driven Development (TDD)?
+51. What is Behavior-Driven Development (BDD)?
+
+* Test Automation
+52. How does test automation support Scrum?
+53. Have you used any test automation tools?
+
+* Continuous Integration and Deployment
+54. How does Continuous Integration (CI) fit into Scrum?
+55. Explain the concept of Continuous Deployment.
+
+* Scaling Scrum
+56. How can Scrum be scaled for large projects or teams?
+57. What is the role of Scrum of Scrums?
+
+* Learning and Improvement
+58. How does Scrum promote continuous improvement?
+59. Have you participated in any Scrum-related training or workshops?
+60. What challenges do you foresee in implementing Scrum in a new team?
+
+
+Experianced:
+* Scrum Framework
+1. How do you define Scrum and its key principles?
+2. Explain the roles of a Scrum Master, Product Owner, and Development Team in detail.
+3. How have you collaborated with Product Owners in previous projects?
+4. Describe a challenging situation you faced as a Scrum Master and how you resolved it.
+5. How do you handle conflicts within a Scrum team as a Scrum Master?
+6. How do you ensure that the Development Team remains self-organizing and cross-functional?
+7. Can you explain the difference between Scrum and other Agile frameworks like Kanban or XP?
+
+* Scrum Events and Artifacts
+8. Describe the Sprint Planning process and your approach to prioritizing tasks.
+9. How do you conduct Daily Scrums effectively to ensure team synchronization?
+10. What factors do you consider when determining the Sprint length?
+11. How do you facilitate a Sprint Review meeting?
+12. What are the key elements of a Sprint Retrospective, and how do you ensure actionable outcomes?
+13. Explain the purpose of a Product Backlog and how you manage it in your projects.
+14. How do you ensure that the Definition of Done (DoD) is understood and adhered to by the team?
+15. Describe the importance of the Increment in Scrum.
+
+* Agile Testing Practices
+16. How do you integrate testing into each phase of the Sprint?
+17. Describe your approach to writing and refining acceptance criteria for user stories.
+18. How do you manage regression testing within a Sprint?
+19. What metrics do you use to measure testing progress and quality in a Scrum environment?
+20. How do you handle defects discovered during a Sprint?
+
+* Continuous Improvement
+21. How do you foster a culture of continuous improvement within your Scrum team?
+22. Describe a specific improvement initiative you led within your team.
+23. How do you incorporate feedback from Sprint Retrospectives into future Sprints?
+
+* Team Collaboration and Communication
+24. How do you promote collaboration and communication within a distributed Scrum team?
+25. Describe a time when you had to work with stakeholders outside the Scrum team. How did you ensure alignment?
+26. How do you ensure transparency in project progress and impediments within the team?
+
+* Agile Testing Techniques
+27. Explain the difference between Test-Driven Development (TDD) and Behavior-Driven Development (BDD). How have you applied these in your projects?
+28. How do you ensure that automated tests are integrated into the Continuous Integration (CI) pipeline?
+29. Describe your experience with exploratory testing in a Scrum environment.
+
+* Handling Changes and Adaptability
+30. How do you manage changing requirements and scope creep in Scrum?
+31. Describe your experience with Product Backlog refinement. How do you ensure the backlog is always ready for the next Sprint?
+32. How do you prioritize testing tasks when facing tight deadlines or resource constraints?
+
+* Agile Best Practices and Tools
+33. What are some best practices for ensuring quality in Agile development?
+34. Describe the role of test management tools and Agile boards (like Jira) in your testing process.
+35. How do you ensure that testing is not a bottleneck in the Sprint?
+
+* Scaling Scrum
+36. Have you worked in a scaled Scrum environment (e.g., using frameworks like SAFe or LeSS)? Describe your experience.
+37. How do you ensure alignment and coordination between multiple Scrum teams working on the same product?
+
+* Leadership and Mentorship
+38. How do you mentor and coach team members in Agile and Scrum practices?
+39. Describe a time when you successfully influenced stakeholders or leadership to adopt Agile principles.
+
+* DevOps Integration
+40. How do you collaborate with DevOps teams in a Scrum environment?
+41. Describe the role of automated testing and deployment in Agile projects.
+
+* Challenges and Solutions
+42. What are some common challenges you've faced in Agile testing, and how did you overcome them?
+43. How do you handle technical debt and quality issues in a Sprint?
+
+* Career Development and Learning
+44. How do you stay updated with the latest trends and practices in Agile and testing?
+45. Have you pursued any certifications related to Agile or Scrum?
+
+* Project Management and Metrics
+46. How do you ensure that testing efforts align with project goals and timelines?
+47. What metrics do you use to track the success and effectiveness of your testing efforts?
+
+* Ethical and Professional Behavior
+48. How do you ensure ethical behavior and integrity in testing practices?
+49. How do you handle confidential or sensitive information within a Scrum team?
+50. Describe your approach to balancing the need for speed with quality in Agile projects.
+
+

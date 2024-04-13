@@ -1,0 +1,67 @@
+
+For Freshers:
+
+Agile Methodology Basics:
+1. What are the core principles of Agile methodology?
+2. How does Agile differ from traditional project management methodologies?
+3. Can you explain the Agile Manifesto and its importance?
+4. What are the key benefits of adopting Agile practices?
+5. How does Agile promote customer collaboration and feedback?
+
+Scrum Framework:
+6. Explain the roles and responsibilities of the Product Owner, Scrum Master, and Development Team in Scrum.
+7. What is the significance of the Sprint Review and Sprint Retrospective meetings in Scrum?
+8. Describe the concept of Sprint Planning and its objectives.
+9. What techniques can be used for backlog refinement in Scrum?
+10. What is the purpose of daily stand-up meetings, and how do they enhance team collaboration?
+
+Agile Estimation and Planning:
+16. What are story points, and how are they used for estimation in Agile?
+17. Explain the concept of Planning Poker and its role in Agile estimation.
+18. How do you handle uncertainty and change during the planning phase in Agile?
+19. What factors should be considered when prioritizing items in the product backlog?
+
+Agile Tools and Techniques:
+21. What are some popular Agile project management tools?
+22. How do burndown charts and burnup charts aid in Agile project tracking?
+23. Describe the use of information radiators in Agile teams.
+24. How can Agile teams use retrospectives to improve their processes continuously?
+
+Agile Culture and Team Dynamics:
+26. How does Agile foster a culture of collaboration and accountability within teams?
+27. What strategies can be employed to encourage self-organization within Agile teams?
+28. How do you handle conflicts or disagreements within an Agile team?
+29. Describe the concept of "servant leadership" in Agile and its significance.
+
+For Experienced :
+
+Scrum Framework:
+11. Explain the roles and responsibilities of the Product Owner, Scrum Master, and Development Team in Scrum.
+12. What is the significance of the Sprint Review and Sprint Retrospective meetings in Scrum?
+13. How does Scrum ensure transparency, inspection, and adaptation?
+14. Describe the concept of Sprint Planning and its objectives.
+15. What techniques can be used for backlog refinement in Scrum?
+
+Kanban Methodology:
+31. How does Kanban differ from Scrum?
+32. What are the core principles of Kanban?
+33. Explain the concept of WIP (Work In Progress) limits in Kanban.
+34. How does Kanban facilitate continuous delivery and flow efficiency?
+35. What metrics are commonly used in Kanban for performance monitoring?
+
+Agile Estimation and Planning:
+36. Describe the concept of release planning and its importance in Agile projects.
+37. What are story points, and how are they used for estimation in Agile?
+38. Explain the concept of Planning Poker and its role in Agile estimation.
+39. How do you handle uncertainty and change during the planning phase in Agile?
+
+Scaling Agile:
+40. What are some common challenges faced when scaling Agile across large organizations?
+41. Explain the SAFe (Scaled Agile Framework) and its key components.
+42. How do you ensure alignment and synchronization among multiple Agile teams in a large-scale Agile initiative?
+43. What are some alternative frameworks or methodologies for scaling Agile besides SAFe?
+
+Agile Adoption and Transformation:
+44. How do you assess an organization's readiness for Agile transformation?
+45. What strategies can be employed to overcome resistance to Agile adoption?
+46. How do you measure the success of an Agile transformation initiative?

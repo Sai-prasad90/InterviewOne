@@ -1,0 +1,213 @@
+Scrum 
+Fresher
+**Basic Scrum Concepts**
+
+1. What is Scrum?
+2. Explain the roles in Scrum.
+3. What are the key artifacts in Scrum?
+4. What is a Product Backlog?
+5. What is a Sprint in Scrum?
+
+**Scrum Roles**
+
+6. Describe the responsibilities of a Scrum Master.
+7. What does a Product Owner do in Scrum?
+8. What is the role of the Development Team in Scrum?
+
+**Scrum Artifacts**
+
+9. What is a Sprint Backlog?
+10. How does the Product Backlog evolve during a project?
+11. Explain the purpose of the Increment in Scrum.
+12. What is a User Story?
+
+**Sprint Planning**
+
+13. What happens during Sprint Planning?
+14. How do you estimate tasks in Scrum?
+15. What is the outcome of Sprint Planning?
+
+**Daily Scrum**
+
+16. What is the purpose of the Daily Scrum?
+17. What are the typical questions asked during the Daily Scrum?
+18. How long should the Daily Scrum last?
+
+**Sprint Review and Retrospective**
+
+19. What occurs during the Sprint Review?
+20. Why is the Sprint Retrospective important?
+21. What are the outputs of a Sprint Retrospective?
+
+**Scrum Meetings**
+
+22. What are the different Scrum meetings?
+23. How does Scrum handle changes or additions to requirements?
+24. What is the Definition of Done?
+
+**User Stories and Product Backlog**
+
+25. How do you write a good User Story?
+26. What is backlog grooming or refinement?
+27. Who is responsible for maintaining the Product Backlog?
+
+**Scrum vs. Traditional Project Management**
+
+28. What are the differences between Scrum and Waterfall?
+29. Why is Scrum considered agile?
+
+**Scrum Metrics and Reporting**
+
+30. What are some common Scrum metrics?
+31. How does Scrum ensure transparency?
+
+**Scrum in Development**
+
+32. How does Scrum facilitate continuous improvement?
+33. How can Scrum help in managing project risks?
+
+**Agile Principles**
+
+34. What are the Agile Manifesto principles?
+35. How does Scrum support the Agile principles?
+
+**Scrum Tools and Techniques**
+
+36. Have you used any Scrum tools or software? Which ones?
+37. How do Scrum teams use burndown charts?
+
+**Challenges in Scrum**
+
+38. What are the common challenges faced by Scrum teams?
+39. How can a Scrum Master address team conflicts?
+
+**Scrum in a Team**
+
+40. How important is collaboration in Scrum?
+41. How do you handle a situation where the team doesn’t meet the Sprint goal?
+
+**Scaling Scrum**
+
+42. What is the difference between Scrum and scaled Agile frameworks like SAFe?
+
+**Personal Experience with Scrum**
+
+43. Have you worked in a Scrum team before? What was your role?
+44. What was the most challenging aspect of working in a Scrum team?
+
+**Scrum Certification**
+
+45. Are you planning to pursue any Scrum certifications in the future?
+46. How do you think a Scrum certification can benefit your career?
+
+**Scrum Best Practices**
+
+47. What are some best practices for successful Scrum implementation?
+48. How does Scrum promote team accountability?
+49. What is the role of leadership in supporting Scrum teams?
+50. How do you prioritize tasks in a Scrum project?
+
+
+Experience
+
+**Scrum Fundamentals:**
+
+1. Explain the difference between Agile and Scrum.
+2. What are the key roles in Scrum? Describe each role.
+3. How does Scrum differ from other Agile methodologies like Kanban or XP?
+4. Can you explain the Scrum framework and its various ceremonies?
+5. How would you handle a situation where the Product Owner is constantly changing requirements mid-sprint?
+6. What is the importance of the Definition of Done in Scrum?
+
+**Sprint Planning:**
+
+7. How do you estimate user stories in Scrum? What techniques have you used?
+8. What factors do you consider when determining the length of a sprint?
+9. How do you handle incomplete user stories at the end of a sprint?
+10. Describe how you would conduct a sprint planning meeting.
+
+**Daily Scrum:**
+
+11. What are the objectives of the Daily Scrum?
+12. How do you ensure that the Daily Scrum stays focused and within the time-box?
+13. What would you do if team members are consistently not attending the Daily Scrum?
+
+**Sprint Review and Retrospective:**
+
+14. Explain the purpose of the Sprint Review and who should attend it.
+15. How do you facilitate a Sprint Retrospective? Can you give examples of improvement actions taken based on retrospectives?
+16. What would you do if a team member consistently dominates the Sprint Retrospective discussions?
+
+**Scrum Artifacts:**
+
+17. Describe the difference between Product Backlog and Sprint Backlog.
+18. How do you manage technical debt in a Scrum project?
+19. What is the purpose of a Burndown Chart in Scrum?
+
+**Scrum Master Role:**
+
+20. What qualities make a good Scrum Master?
+21. How do you handle team conflicts or disagreements during a sprint?
+22. Can you explain the concept of servant leadership in the context of a Scrum Master?
+
+**Agile Best Practices:**
+
+23. How do you ensure continuous improvement within your development team?
+24. What are your thoughts on pair programming and its benefits?
+25. How do you integrate testing into the development process in a Scrum team?
+
+**Team Collaboration:**
+
+26. How do you ensure transparency and visibility of work within a Scrum team?
+27. Describe a situation where you had to deal with a challenging stakeholder. How did you handle it?
+28. How do you encourage collaboration between development and operations teams (DevOps) in a Scrum environment?
+
+**Technical Skills:**
+
+29. What are your preferred tools for managing Agile projects (e.g., Jira, Trello)? Why?
+30. How do you handle technical debt without impacting the sprint deliverables?
+31. Describe your experience with automated testing in an Agile environment.
+
+**Scaling Scrum:**
+
+32. Have you worked with scaling frameworks like SAFe or LeSS? Can you explain how they operate?
+33. How do you coordinate dependencies between multiple Scrum teams working on the same project?
+
+**Project Management:**
+
+34. How do you prioritize tasks within a sprint when everything is deemed high priority?
+35. How do you manage scope creep in a Scrum project?
+
+**Soft Skills:**
+
+36. How do you motivate your team during challenging sprints?
+37. Can you give an example of a successful project delivery and the role you played in it?
+38. How do you handle missed deadlines or sprint failures?
+
+**Adaptability:**
+
+39. Describe a situation where you had to adapt quickly to changes in project requirements or priorities.
+40. How do you ensure the team remains agile in a rapidly changing business environment?
+
+**Self-Improvement:**
+
+41. What do you do outside of work to stay updated with industry trends and advancements?
+42. How do you handle feedback, both giving and receiving, within your team?
+
+**Scenario-based Questions:**
+
+43. You discover a critical defect just before the end of a sprint. What do you do?
+44. How do you handle it if the Product Owner is not available during a sprint for clarifications?
+
+**Agile Values and Principles:**
+
+45. What does the Agile Manifesto mean to you? How do you apply its values in your work?
+46. How do you promote a culture of transparency and openness within your team?
+
+**Continuous Improvement:**
+
+47. How do you encourage innovation and experimentation within your development team?
+48. Describe a situation where you introduced a new process or tool that significantly improved team productivity.
+49. How do you measure the success of your Scrum team apart from sprint deliverables?
+50. Where do you see the future of Agile and Scrum in the next 5 years?
+

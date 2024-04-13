@@ -1,0 +1,93 @@
+### Basic Concepts
+1. What is Git and how does it differ from SVN?
+2. Explain version control and its significance.
+3. Enumerate the advantages of using Git over other version control systems.
+4. Define key Git terms: repository, branch, commit, and merge.
+5. What constitutes a commit in Git?
+
+### Installation and Configuration
+6. How do you install Git on Linux, Windows, and macOS?
+7. Explain Git configuration and the process of setting your username and email.
+
+### Git Commands
+8. List fundamental Git commands and their purposes.
+9. What does `git init` do, and how do you use it?
+10. How do you create a new Git repository?
+11. How do you stage changes using Git?
+12. What insights does `git status` provide?
+13. How do you commit changes in Git?
+14. Explain the `git clone` command.
+15. How do you create and manage branches in Git?
+16. What is the purpose of `git checkout`?
+17. How do you merge branches in Git?
+18. What does `git pull` achieve, and how does it differ from `git fetch`?
+
+### Branching and Merging
+19. Define a branch in Git and its significance.
+20. How do you list, create, and delete branches in Git?
+21. Explain merge conflicts and their resolution strategies in Git.
+
+### Remote Repositories
+22. Describe a remote repository and its role.
+23. How do you add and push changes to a remote repository?
+24. How do you fetch and pull changes from a remote repository?
+25. What does `origin` represent in Git?
+
+### Undoing Changes
+26. How do you discard local changes in Git?
+27. How can you undo unpushed commits?
+28. Explain the `git reset` command and its applications.
+29. Differentiate between `git revert` and `git reset`.
+
+### Git Workflow
+30. Explain the Gitflow Workflow and GitHub Flow.
+31. What is a pull request, and how does it facilitate collaboration?
+
+### Git Tags
+32. Define Git tags and explain their creation and deletion.
+
+### Stashing Changes
+33. Describe Git stashing and its usage.
+
+### Submodules
+34. What are Git submodules, and how do you manage them?
+
+### Git History
+35. How do you view commit history using Git?
+36. Differentiate between `git log` and `git show`.
+
+### Git Configurations
+37. Where are Git configuration files stored, and how can you set up a global Gitignore file?
+
+### Git Rebase
+38. Explain Git rebase and interactive rebase.
+
+### Advanced Topics
+39. Discuss Git's internal workings and the concept of Git hooks.
+40. Define `git bisect` and its purpose.
+
+### GitHub
+41. Define GitHub and describe its role in Git-based workflows.
+42. How do you create and manage repositories on GitHub?
+43. Differentiate Git from GitHub, and explain GitHub Actions.
+
+### Collaboration
+44. How do you collaborate using Git, and how do you resolve merge conflicts?
+
+### Security
+45. How do you secure Git repositories and manage credentials?
+
+### CI/CD
+46. How does Git integrate with CI/CD pipelines, and what are GitLab CI/CD and GitHub Actions?
+
+### Best Practices
+47. Enumerate best practices for using Git, including writing effective commit messages.
+
+### Git GUI Tools
+48. Name popular Git GUI tools and describe their utility.
+
+### Troubleshooting
+49. What actions do you take if you commit to the wrong branch or need to recover a deleted commit?
+
+### Versioning
+50. How do you manage project versions using Git, and what is semantic versioning?

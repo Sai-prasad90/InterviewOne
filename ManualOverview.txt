@@ -1,0 +1,57 @@
+
+# Manual Testing Interview Questions
+
+# General Testing Concepts
+1. Explain your current project and your role and responsibilities in it.
+2. How do you prioritize your testing tasks?
+3. What is your approach when faced with tight deadlines for testing?
+4. How would you handle a critical defect discovered just before the release deadline?
+5. Have you been involved in preparing test plans? If so, what was your role?
+6. Who assigns severity and priority to defects in your projects?
+7. Can you describe the defect life cycle in software testing?
+8. Explain the bug life cycle.
+9. How do you report defects using tools like Excel or bug tracking systems?
+10. What metrics do you consider important in test management and reporting?
+11. What criteria do you use to determine if the number of test cases is sufficient for a module?
+12. What information do you include in a test report?
+
+# Test Case Management and Planning
+13. Provide an example of a test case for an ATM machine.
+14. What is the purpose of a Requirement Traceability Matrix (RTM)?
+15. How many test cases can you write and execute in a typical workday?
+16. What are the key components of Software Requirements Specification (SRS) documents?
+17. Describe the columns you typically include in your test cases.
+18. Can you create test cases for a scenario involving an ATM machine and a coffee machine?
+19. Explain your approach to testing a web application.
+20. What aspects do you consider when selecting test cases for regression testing?
+
+# Defects and Bug Management
+21. Differentiate between high severity/low priority and low severity/high priority defects.
+22. Define a bug, error, and defect in the context of software testing.
+
+# Testing Processes and Techniques
+23. Walk through the general software testing process.
+24. Explain the concept of comparison testing.
+25. What is boundary value analysis (BVA) and how is it used in testing?
+26. How would you perform manual performance testing for a website?
+27. Describe back-end testing using SQL.
+28. What is cookie and session testing and why is it important?
+
+# Testing Documentation
+29. List the documents required to create a test plan.
+30. What information is necessary to create an effective test case?
+31. Why is test data important in the testing process?
+
+# Project Management and SDLC
+32. Describe the roles of Project Manager (PM), Team Lead (TL), Developer, and Tester in the Software Development Life Cycle (SDLC).
+33. Is it necessary to use Use Cases to write test cases, or can test cases be derived directly from requirements?
+34. What role do testers play in project documentation?
+
+# Additional Questions
+35. Explain the difference between a strategic test plan and a detailed test plan.
+36. How do you decide if test cases are sufficient for a given module?
+37. How do you adapt to changes in project requirements during long-term projects?
+38. Define stress testing, volume testing, and load testing. How are they different?
+39. When and why would you conduct beta testing and alpha testing?
+
+
