@@ -1,0 +1,220 @@
+Manual Testing Interview Questions
+General Testing Concepts
+
+1.	Explain your current project and your role and responsibilities in it.
+2.	How do you prioritize your testing tasks?
+3.	What is your approach when faced with tight deadlines for testing?
+4.	How would you handle a critical defect discovered just before the release deadline?
+5.	Have you been involved in preparing test plans? If so, what was your role?
+6.	Who assigns severity and priority to defects in your projects?
+7.	Can you describe the defect life cycle in software testing?
+8.	Explain the bug life cycle.
+9.	How do you report defects using tools like Excel or bug tracking systems?
+10.	What metrics do you consider important in test management and reporting?
+11.	What criteria do you use to determine if the number of test cases is sufficient for a module?
+12.	What information do you include in a test report?
+
+Test Case Management and Planning
+
+13.	Provide an example of a test case for an ATM machine.
+14.	What is the purpose of a Requirement Traceability Matrix (RTM)?
+15.	How many test cases can you write and execute in a typical workday?
+16.	What are the key components of Software Requirements Specification (SRS) documents?
+17.	Describe the columns you typically include in your test cases.
+18.	Can you create test cases for a scenario involving an ATM machine and a coffee machine?
+19.	Explain your approach to testing a web application.
+20.	What aspects do you consider when selecting test cases for regression testing?
+
+Defects and Bug Management
+
+21.	Differentiate between high severity/low priority and low severity/high priority defects.
+22.	Define a bug, error, and defect in the context of software testing.
+
+Testing Processes and Techniques
+
+23.	Walk through the general software testing process.
+24.	Explain the concept of comparison testing.
+25.	What is boundary value analysis (BVA) and how is it used in testing?
+26.	How would you perform manual performance testing for a website?
+27.	Describe back-end testing using SQL.
+28.	What is cookie and session testing and why is it important?
+
+Testing Documentation
+
+29.	List the documents required to create a test plan.
+30.	What information is necessary to create an effective test case?
+31.	Why is test data important in the testing process?
+
+Project Management and SDLC
+
+32.	Describe the roles of Project Manager (PM), Team Lead (TL), Developer, and Tester in the Software Development Life Cycle (SDLC).
+33.	Is it necessary to use Use Cases to write test cases, or can test cases be derived directly from requirements?
+34.	What role do testers play in project documentation?
+
+Additional Questions
+
+35.	Explain the difference between a strategic test plan and a detailed test plan.
+36.	How do you decide if test cases are sufficient for a given module?
+37.	How do you adapt to changes in project requirements during long-term projects?
+38.	Define stress testing, volume testing, and load testing. How are they different?
+39.	When and why would you conduct beta testing and alpha testing?
+
+Scenario-Based Questions
+
+40.	When our release is in the next 2 hours & as a Tester, we found a blocker bug; what will you do?
+41.	You have 30 test cases to execute and you have limited time to deliver, you cannot take another resource for help, so how will you execute these test cases to deliver on time? What will be your strategy?
+42.	You are testing a login page, and when you enter valid credentials, the page remains stuck with a loading spinner, and you cannot proceed further. What could be the possible reasons for this issue?
+43.	You are testing an e-commerce website, and after placing an order, the confirmation email is not sent to the user. How would you approach this problem?
+44.	You are testing a mobile app, and when you rotate the device from portrait to landscape mode, the app crashes. How do you troubleshoot this issue?
+45.	You are testing a financial application, and when you enter negative values in a transaction, the application allows it, leading to incorrect calculations. How do you approach this issue?
+46.	You are testing a web application, and when you navigate through different pages, the URL remains the same. How do you handle this situation?
+47.	You are testing a messaging app, and users report that sometimes messages are delivered to the wrong recipients. How do you approach this issue?
+48.	You are testing a video streaming service, and some users complain about buffering issues and playback interruptions. How do you troubleshoot this problem?
+49.	You are testing a healthcare app that stores sensitive patient data, and users report concerns about data privacy. How would you ensure the app complies with privacy regulations?
+50.	You are testing a gaming application, and users report that the game crashes randomly during gameplay. How do you troubleshoot this issue?
+51.	You are testing a social media app, and users report that they sometimes receive notifications for activities they did not perform. How do you handle this situation?
+
+
+Basic Testing Concepts
+
+Fundamentals
+52.	What is software testing?
+53.	What is the difference between verification and validation?
+54.	What is the difference between quality assurance and quality control?
+55.	What is SDLC (Software Development Life Cycle)?
+56.	Explain STLC (Software Testing Life Cycle).
+
+Testing Types and Techniques
+57.	What is dynamic testing?
+58.	What is static testing?
+59.	What is white box testing?
+60.	What is black box testing?
+61.	What is gray box testing?
+62.	What is positive and negative testing?
+
+Test Planning and Documentation
+63.	What is a test strategy?
+64.	What is a test plan?
+65.	What is a test scenario?
+66.	What is a test case?
+67.	What is a test bed?
+68.	What is a test suite?
+69.	What is test data?
+
+Defect Management
+70.	What is the defect life cycle?
+71.	What is the difference between severity and priority?
+72.	What is defect priority?
+73.	What is defect severity?
+74.	Give an example of Low priority-Low severity, Low priority-High severity, High priority-Low severity, High priority-High severity defects.
+
+Specific Testing Methods
+75.	What is smoke and sanity testing?
+76.	What is regression testing?
+77.	What is retesting?
+78.	What is monkey / ad-hoc testing?
+
+Criteria and Blockers
+79.	What are entry and exit criteria?
+80.	What is a blocker?
+
+Advanced Testing Concepts
+
+81.	Levels and Types of Testing
+82.	What is unit testing?
+83.	What is integration testing?
+84.	What is system testing?
+85.	What is user-appearance testing?
+86.	What is alpha-beta testing?
+
+Testing Approaches
+87.	How is monkey testing different from adhoc testing?
+88.	Explain TDD (Test Driven Development).
+89.	Explain Equivalence Class Partitioning.
+90.	What is boundary value analysis?
+
+Defect Reporting and Tools
+91.	What are some defect reporting attributes?
+92.	What is a stub?
+93.	What is a driver?
+
+Automation and Methodologies
+94.	What are some advantages of automation testing?
+95.	What is the difference between the Waterfall Model and Agile Methodology?
+96.	Explain Agile Methodology.
+97.	What is scrum?
+98.	What are the different roles in scrum?
+99.	What is a scrum meeting?
+
+Test Design Techniques
+100.	What is the purpose of Test Design Techniques?
+101.	Explain Equivalence partitioning.
+102.	Explain boundary value analysis.
+103.	Explain Decision Table Testing.
+104.	Explain State Transition Testing.
+105.	Explain Cause-Effect Graphing Technique.
+106.	What is random testing?
+
+Static Techniques
+107.	What is Walkthrough in static technique?
+108.	What is a Technical Review in static technique?
+109.	What is a Static testing technique?
+110.	What are the uses of Static Testing?
+111.	What is a formal review?
+112.	What is informal review in static technique?
+
+Practical and Scenario-Based Questions
+
+113.	Test Case Management
+114.	How do you determine if test cases are sufficient for a module?
+115.	Explain the process of test case review.
+116.	How to write good test cases?
+117.	What is the difference between a test scenario and a test case?
+118.	What is a positive and negative test case?
+119.	Who prepares Test Cases?
+
+Test Data Management
+120.	How to collect Test Data?
+121.	Is test data mandatory for every test case?
+122.	What is the relation between Test case and Test data?
+
+Performance and Security Testing
+123.	What is performance testing?
+124.	How is Load Testing different from Stress Testing?
+125.	What is concurrent user load in performance testing?
+126.	What are key factors in deciding whether we need performance testing before going live?
+127.	What is the purpose of Security Testing?
+128.	What is soak or endurance testing?
+129.	What is spike testing and why is it needed?
+
+Tools and Automation
+130.	How do you select the right test automation tool for your project?
+131.	Explain the process of continuous integration and its importance in testing.
+132.	What are the benefits and challenges of test automation?
+133.	Explain the process of test automation.
+
+Estimations and Metrics
+134.	On what basis can you arrive at an estimation for your project?
+135.	How do you estimate the effort for testing activities?
+136.	Explain test metrics.
+
+Quality Assurance and Risk Management
+137.	How do you measure the effectiveness of testing?
+138.	Explain risk analysis in testing.
+139.	How do you ensure the quality of your testing process?
+
+Conceptual Understanding
+140.	What is the difference between authorization and authentication?
+141.	What is the purpose of ECP (Equivalence Class Partitioning)?
+142.	What are the important Black Box Test Design Techniques?
+143.	What is use case testing?
+144.	What are the different levels of testing?
+145.	What is the purpose of acceptance testing, and who performs it?
+146.	How do you handle incomplete requirements?
+147.	What is the role of configuration management in testing?
+148.	Difference between Functional and Non-Functional Testing.
+149.	How do you map STLC to SDLC? Specify what testing activities are held in each phase of SDLC.
+150.	Explain the Requirement Traceability Matrix.
+151.	What is Decision Table Testing?
+152.	What is State Transition Testing?
+153.	Provide 20 test scenarios for the login page.
